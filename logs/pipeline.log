@@ -1,0 +1,1832 @@
+2026-03-15 04:48:05,642 INFO Database initialised at data/geopulse.db
+2026-03-15 04:48:05,642 INFO ========================================
+2026-03-15 04:48:05,642 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 04:48:05,642 INFO ========================================
+2026-03-15 04:48:05,809 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 04:48:05,930 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 04:48:06,050 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 04:48:06,172 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 04:48:06,292 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 04:48:06,551 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 04:48:06,751 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 04:48:06,972 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 04:48:07,203 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 04:48:07,433 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 04:48:07,645 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 04:48:07,884 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 04:48:08,129 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 04:48:08,346 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 04:48:08,551 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 04:48:08,760 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 04:48:08,984 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 04:48:09,196 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 04:48:09,413 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 04:48:09,622 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 04:48:09,833 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 04:48:10,028 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 04:48:10,230 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 04:48:10,431 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 04:48:10,637 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 04:48:10,851 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 04:48:11,065 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 04:48:11,271 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 04:48:11,501 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 04:48:11,726 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 04:48:11,949 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 04:48:12,161 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 04:48:12,387 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 04:48:12,632 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 04:48:12,901 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 04:48:13,140 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 04:48:13,351 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 04:48:13,537 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 04:48:13,728 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 04:48:13,937 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 04:48:14,141 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 04:48:14,323 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 04:48:14,540 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 04:48:14,780 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 04:48:14,980 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 04:48:15,199 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 04:48:15,407 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 04:48:15,611 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 04:48:15,822 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 04:48:16,056 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 04:48:16,245 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 04:48:16,446 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 04:48:16,657 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 04:48:16,866 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 04:48:17,068 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 04:48:17,278 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 04:48:17,482 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 04:48:17,691 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 04:48:17,899 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 04:48:18,095 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 04:48:18,288 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 04:48:18,506 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 04:48:18,787 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 04:48:19,151 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 04:48:19,358 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 04:48:20,576 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 04:48:20,793 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 04:48:20,969 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 04:48:21,165 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 04:48:21,365 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 04:48:21,565 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 04:48:21,774 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 04:48:22,021 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 04:48:22,223 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 04:48:22,417 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 04:48:22,649 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 04:48:22,842 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 04:48:23,047 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 04:48:23,254 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 04:48:23,465 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 04:48:23,670 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 04:48:23,795 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 04:48:23,922 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 04:48:24,045 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 04:48:24,175 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 04:48:24,306 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 04:48:24,432 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 04:48:24,558 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 04:48:24,681 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 04:48:24,809 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 04:48:24,809 INFO Totale articles fetched: 3757
+2026-03-15 04:50:19,469 INFO Database initialised at data/geopulse.db
+2026-03-15 04:50:19,469 INFO ========================================
+2026-03-15 04:50:19,469 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 04:50:19,469 INFO ========================================
+2026-03-15 04:50:19,608 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 04:50:19,718 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 04:50:19,836 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 04:50:19,947 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 04:50:20,057 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 04:50:20,263 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 04:50:20,454 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 04:50:20,687 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 04:50:20,917 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 04:50:21,134 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 04:50:21,336 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 04:50:21,601 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 04:50:21,891 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 04:50:22,077 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 04:50:22,271 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 04:50:22,466 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 04:50:22,663 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 04:50:22,849 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 04:50:23,065 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 04:50:23,270 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 04:50:23,465 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 04:50:23,659 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 04:50:23,853 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 04:50:24,035 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 04:50:24,221 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 04:50:24,433 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 04:50:24,644 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 04:50:24,837 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 04:50:25,049 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 04:50:25,257 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 04:50:25,467 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 04:50:25,656 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 04:50:25,853 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 04:50:26,105 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 04:50:26,323 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 04:50:26,518 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 04:50:26,716 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 04:50:26,895 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 04:50:27,084 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 04:50:27,292 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 04:50:27,490 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 04:50:27,654 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 04:50:27,841 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 04:50:28,037 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 04:50:28,237 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 04:50:28,422 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 04:50:28,609 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 04:50:28,800 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 04:50:29,040 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 04:50:29,275 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 04:50:29,456 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 04:50:29,644 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 04:50:29,845 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 04:50:30,054 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 04:50:30,249 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 04:50:30,451 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 04:50:30,652 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 04:50:30,856 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 04:50:31,066 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 04:50:31,278 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 04:50:31,479 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 04:50:31,738 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 04:50:31,953 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 04:50:32,191 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 04:50:32,421 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 04:50:32,615 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 04:50:32,834 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 04:50:33,036 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 04:50:33,242 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 04:50:33,442 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 04:50:33,632 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 04:50:33,826 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 04:50:34,054 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 04:50:34,252 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 04:50:34,438 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 04:50:34,625 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 04:50:34,808 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 04:50:35,017 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 04:50:35,246 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 04:50:35,444 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 04:50:35,633 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 04:50:35,748 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 04:50:35,884 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 04:50:36,009 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 04:50:36,127 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 04:50:36,238 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 04:50:36,360 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 04:50:36,493 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 04:50:36,622 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 04:50:36,749 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 04:50:36,749 INFO Totale articles fetched: 3757
+2026-03-15 04:50:36,769 INFO Saved 0 new articles to database
+2026-03-15 04:50:36,769 INFO ========================================
+2026-03-15 04:50:36,769 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 04:50:36,769 INFO ========================================
+2026-03-15 04:50:37,143 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,144 INFO Saved 0 new flights [LHR→DXB]
+2026-03-15 04:50:37,453 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 04:50:37,455 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,455 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,455 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,455 INFO Saved 0 new flights [LHR→TLV]
+2026-03-15 04:50:37,833 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 04:50:37,835 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,835 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,835 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,835 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,835 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,835 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,835 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,835 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,836 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,836 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:37,836 INFO Saved 0 new flights [LHR→DEL]
+2026-03-15 04:50:38,179 INFO Fetched 7 flights [LHR→BKK]
+2026-03-15 04:50:38,180 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,180 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,180 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,180 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,180 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,180 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,180 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,180 INFO Saved 0 new flights [LHR→BKK]
+2026-03-15 04:50:38,438 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 04:50:38,440 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,441 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,441 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,441 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,441 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,441 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,441 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,441 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:50:38,441 INFO Saved 0 new flights [LHR→HKG]
+2026-03-15 04:50:38,754 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 04:50:38,756 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 04:50:38,756 INFO ========================================
+2026-03-15 04:50:38,757 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 04:50:38,757 INFO ========================================
+2026-03-15 04:50:38,757 INFO Fetching states for region: ('UK_to_Middle_East', {'routes': [('LHR', 'DXB'), ('LHR', 'TLV'), ('LHR', 'AUH')], 'lamin': 24.0, 'lomin': -10.0, 'lamax': 52.0, 'lomax': 60.0})
+2026-03-15 04:55:37,286 INFO Database initialised at data/geopulse.db
+2026-03-15 04:55:37,286 INFO ========================================
+2026-03-15 04:55:37,286 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 04:55:37,286 INFO ========================================
+2026-03-15 04:55:37,433 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 04:55:37,540 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 04:55:37,649 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 04:55:37,761 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 04:55:37,874 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 04:55:38,091 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 04:55:38,295 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 04:55:38,537 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 04:55:38,754 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 04:55:38,986 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 04:55:39,277 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 04:55:39,495 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 04:55:39,798 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 04:55:40,007 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 04:55:40,206 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 04:55:40,419 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 04:55:40,619 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 04:55:40,825 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 04:55:41,025 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 04:55:41,316 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 04:55:41,530 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 04:55:41,718 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 04:55:41,913 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 04:55:42,099 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 04:55:42,383 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 04:55:42,570 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 04:55:42,787 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 04:55:43,004 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 04:55:43,206 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 04:55:43,463 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 04:55:43,679 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 04:55:43,868 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 04:55:44,056 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 04:55:44,273 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 04:55:44,496 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 04:55:44,690 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 04:55:44,888 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 04:55:45,062 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 04:55:45,239 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 04:55:45,441 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 04:55:45,626 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 04:55:45,788 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 04:55:46,019 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 04:55:46,223 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 04:55:46,539 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 04:55:46,746 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 04:55:47,043 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 04:55:47,241 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 04:55:47,467 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 04:55:47,808 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 04:55:47,996 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 04:55:48,191 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 04:55:48,392 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 04:55:48,598 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 04:55:48,787 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 04:55:48,984 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 04:55:49,195 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 04:55:49,383 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 04:55:49,587 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 04:55:49,784 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 04:55:49,970 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 04:55:50,161 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 04:55:50,363 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 04:55:50,588 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 04:55:50,781 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 04:55:50,965 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 04:55:51,175 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 04:55:51,366 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 04:55:51,562 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 04:55:51,762 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 04:55:51,951 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 04:55:52,145 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 04:55:52,376 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 04:55:52,541 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 04:55:52,719 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 04:55:52,907 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 04:55:53,198 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 04:55:54,441 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 04:55:54,693 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 04:55:54,886 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 04:55:55,110 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 04:55:55,259 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 04:55:55,378 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 04:55:55,498 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 04:55:55,617 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 04:55:55,739 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 04:55:55,863 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 04:55:55,985 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 04:55:56,101 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 04:55:56,219 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 04:55:56,219 INFO Totale articles fetched: 3757
+2026-03-15 04:55:56,236 INFO Saved 0 new articles to database
+2026-03-15 04:55:56,236 INFO ========================================
+2026-03-15 04:55:56,236 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 04:55:56,236 INFO ========================================
+2026-03-15 04:55:56,557 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 04:55:56,558 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,558 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,558 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,559 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,559 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,559 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,559 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,559 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,559 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,559 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,559 INFO Saved 0 new flights [LHR→DXB]
+2026-03-15 04:55:56,954 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 04:55:56,956 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,956 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,957 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:56,957 INFO Saved 0 new flights [LHR→TLV]
+2026-03-15 04:55:57,360 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,361 INFO Saved 0 new flights [LHR→DEL]
+2026-03-15 04:55:57,672 INFO Fetched 7 flights [LHR→BKK]
+2026-03-15 04:55:57,672 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,672 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,672 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,672 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,672 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,672 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,672 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,672 INFO Saved 0 new flights [LHR→BKK]
+2026-03-15 04:55:57,976 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 04:55:57,977 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,977 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,978 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,978 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,978 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,978 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,978 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,978 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:55:57,979 INFO Saved 0 new flights [LHR→HKG]
+2026-03-15 04:55:58,255 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 04:55:58,256 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 04:55:58,257 INFO ========================================
+2026-03-15 04:55:58,257 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 04:55:58,257 INFO ========================================
+2026-03-15 04:55:58,257 INFO Fetching states for region: UK_to_Middle_East
+2026-03-15 04:58:02,356 INFO Database initialised at data/geopulse.db
+2026-03-15 04:58:02,357 INFO ========================================
+2026-03-15 04:58:02,357 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 04:58:02,357 INFO ========================================
+2026-03-15 04:58:02,488 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 04:58:02,604 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 04:58:02,731 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 04:58:02,855 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 04:58:02,973 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 04:58:03,227 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 04:58:03,446 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 04:58:03,676 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 04:58:03,922 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 04:58:04,149 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 04:58:04,367 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 04:58:04,609 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 04:58:04,852 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 04:58:05,056 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 04:58:05,256 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 04:58:05,462 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 04:58:05,664 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 04:58:05,883 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 04:58:06,075 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 04:58:06,268 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 04:58:06,484 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 04:58:06,691 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 04:58:06,904 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 04:58:07,097 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 04:58:07,333 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 04:58:07,544 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 04:58:07,763 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 04:58:07,983 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 04:58:08,193 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 04:58:08,465 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 04:58:08,680 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 04:58:08,901 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 04:58:09,146 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 04:58:09,396 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 04:58:09,627 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 04:58:09,834 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 04:58:10,046 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 04:58:10,226 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 04:58:10,409 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 04:58:10,625 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 04:58:10,830 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 04:58:11,003 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 04:58:11,211 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 04:58:11,426 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 04:58:11,632 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 04:58:11,872 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 04:58:12,080 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 04:58:12,284 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 04:58:12,489 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 04:58:12,696 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 04:58:12,893 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 04:58:13,094 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 04:58:13,307 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 04:58:13,507 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 04:58:13,729 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 04:58:13,955 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 04:58:14,147 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 04:58:14,345 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 04:58:14,560 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 04:58:14,752 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 04:58:14,970 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 04:58:15,189 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 04:58:15,401 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 04:58:15,630 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 04:58:15,843 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 04:58:16,055 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 04:58:16,280 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 04:58:16,502 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 04:58:16,706 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 04:58:16,918 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 04:58:17,150 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 04:58:17,366 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 04:58:17,591 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 04:58:17,814 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 04:58:18,000 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 04:58:18,197 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 04:58:18,401 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 04:58:18,619 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 04:58:18,830 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 04:58:19,040 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 04:58:19,237 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 04:58:19,365 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 04:58:19,498 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 04:58:19,628 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 04:58:19,756 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 04:58:19,881 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 04:58:20,007 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 04:58:20,135 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 04:58:20,260 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 04:58:20,397 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 04:58:20,397 INFO Totale articles fetched: 3757
+2026-03-15 04:58:20,417 INFO Saved 0 new articles to database
+2026-03-15 04:58:20,417 INFO ========================================
+2026-03-15 04:58:20,417 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 04:58:20,417 INFO ========================================
+2026-03-15 04:58:20,829 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 04:58:20,831 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,832 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,832 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,832 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,832 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,832 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,832 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,832 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,832 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,832 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:20,833 INFO Saved 0 new flights [LHR→DXB]
+2026-03-15 04:58:21,237 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 04:58:21,239 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,239 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,239 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,239 INFO Saved 0 new flights [LHR→TLV]
+2026-03-15 04:58:21,546 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 04:58:21,546 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,546 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,546 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,547 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,547 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,547 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,547 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,547 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,547 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,547 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,547 INFO Saved 0 new flights [LHR→DEL]
+2026-03-15 04:58:21,953 INFO Fetched 7 flights [LHR→BKK]
+2026-03-15 04:58:21,954 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,954 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,954 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,954 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,954 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,954 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,954 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:21,955 INFO Saved 0 new flights [LHR→BKK]
+2026-03-15 04:58:22,262 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 04:58:22,265 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:22,265 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:22,265 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:22,265 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:22,265 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:22,265 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:22,265 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:22,265 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 04:58:22,266 INFO Saved 0 new flights [LHR→HKG]
+2026-03-15 04:58:22,444 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 04:58:22,444 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 04:58:22,444 INFO ========================================
+2026-03-15 04:58:22,444 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 04:58:22,444 INFO ========================================
+2026-03-15 04:58:22,444 INFO Fetching states for region: UK_to_Middle_East
+2026-03-15 04:58:22,760 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=24.0&lomin=-10.0&lamax=52.0&lomax=60.0
+2026-03-15 04:58:23,767 INFO Fetching states for region: UK_to_Asia
+2026-03-15 04:58:24,066 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=52.0&lomax=105.0
+2026-03-15 04:58:25,075 INFO Fetching states for region: UK_to_Far_East
+2026-03-15 04:58:25,386 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=60.0&lomax=145.0
+2026-03-15 04:58:26,398 INFO Saved 0 flight states
+2026-03-15 04:58:26,399 INFO ========================================
+2026-03-15 04:58:26,399 INFO STEP 4: Analysing route deviations
+2026-03-15 04:58:26,399 INFO ========================================
+2026-03-15 04:58:26,399 INFO Analysed 0 states — 0 over restricted zones
+2026-03-15 04:58:26,399 INFO No restricted zone violations detected
+2026-03-15 04:58:26,399 INFO ========================================
+2026-03-15 04:58:26,399 INFO PIPELINE COMPLETE
+2026-03-15 04:58:26,399 INFO ========================================
+2026-03-15 05:00:31,811 INFO Database initialised at data/geopulse.db
+2026-03-15 05:00:31,811 INFO ========================================
+2026-03-15 05:00:31,811 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 05:00:31,812 INFO ========================================
+2026-03-15 05:00:31,940 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 05:00:32,054 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 05:00:32,168 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 05:00:32,287 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 05:00:32,398 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 05:00:32,627 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 05:00:32,829 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 05:00:33,077 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 05:00:33,297 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 05:00:33,559 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 05:00:33,812 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 05:00:34,043 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 05:00:34,276 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 05:00:34,505 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 05:00:34,705 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 05:00:34,916 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 05:00:35,114 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 05:00:35,336 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 05:00:35,577 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 05:00:35,786 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 05:00:35,999 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 05:00:36,201 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 05:00:36,556 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 05:00:36,748 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 05:00:37,963 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 05:00:38,202 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 05:00:38,432 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 05:00:38,644 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 05:00:38,852 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 05:00:39,078 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 05:00:39,295 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 05:00:39,523 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 05:00:39,716 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 05:00:39,996 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 05:00:40,227 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 05:00:40,435 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 05:00:40,648 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 05:00:40,836 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 05:00:41,021 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 05:00:41,269 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 05:00:41,481 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 05:00:41,640 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 05:00:41,850 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 05:00:42,033 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 05:00:42,239 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 05:00:42,443 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 05:00:42,657 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 05:00:42,885 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 05:00:43,088 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 05:00:43,309 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 05:00:43,495 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 05:00:43,790 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 05:00:44,136 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 05:00:44,336 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 05:00:45,543 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 05:00:45,756 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 05:00:45,969 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 05:00:46,173 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 05:00:46,391 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 05:00:46,606 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 05:00:46,803 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 05:00:46,996 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 05:00:47,208 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 05:00:47,456 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 05:00:47,664 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 05:00:47,872 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 05:00:48,132 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 05:00:48,330 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 05:00:48,543 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 05:00:48,739 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 05:00:48,927 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 05:00:49,130 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 05:00:49,374 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 05:00:49,565 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 05:00:49,756 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 05:00:49,960 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 05:00:50,157 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 05:00:50,364 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 05:00:50,640 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 05:00:50,890 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 05:00:51,098 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 05:00:51,224 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 05:00:51,447 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 05:00:51,576 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 05:00:51,701 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 05:00:51,829 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 05:00:51,939 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 05:00:52,056 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 05:00:52,179 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 05:00:52,312 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 05:00:52,312 INFO Totale articles fetched: 3757
+2026-03-15 05:00:52,329 INFO Saved 0 new articles to database
+2026-03-15 05:00:52,329 INFO ========================================
+2026-03-15 05:00:52,329 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 05:00:52,329 INFO ========================================
+2026-03-15 05:00:52,674 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,675 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,676 INFO Saved 0 new flights [LHR→DXB]
+2026-03-15 05:00:52,952 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 05:00:52,953 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,953 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,953 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:52,953 INFO Saved 0 new flights [LHR→TLV]
+2026-03-15 05:00:53,206 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,207 INFO Saved 0 new flights [LHR→DEL]
+2026-03-15 05:00:53,506 INFO Fetched 7 flights [LHR→BKK]
+2026-03-15 05:00:53,506 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,506 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,506 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,506 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,506 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,506 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,506 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,506 INFO Saved 0 new flights [LHR→BKK]
+2026-03-15 05:00:53,740 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 05:00:53,741 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,741 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,741 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,741 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,742 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,742 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,742 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,742 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:00:53,742 INFO Saved 0 new flights [LHR→HKG]
+2026-03-15 05:00:54,101 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 05:00:54,103 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 05:00:54,103 INFO ========================================
+2026-03-15 05:00:54,103 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 05:00:54,103 INFO ========================================
+2026-03-15 05:00:54,103 INFO Fetching states for region: UK_to_Middle_East
+2026-03-15 05:00:54,411 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=24.0&lomin=-10.0&lamax=52.0&lomax=60.0
+2026-03-15 05:00:55,415 INFO Fetching states for region: UK_to_Asia
+2026-03-15 05:00:55,781 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=52.0&lomax=105.0
+2026-03-15 05:00:56,786 INFO Fetching states for region: UK_to_Far_East
+2026-03-15 05:00:57,079 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=60.0&lomax=145.0
+2026-03-15 05:00:58,087 INFO Saved 0 flight states
+2026-03-15 05:00:58,087 INFO ========================================
+2026-03-15 05:00:58,088 INFO STEP 4: Analysing route deviations
+2026-03-15 05:00:58,088 INFO ========================================
+2026-03-15 05:00:58,088 INFO Analysed 0 states — 0 over restricted zones
+2026-03-15 05:00:58,088 INFO No restricted zone violations detected
+2026-03-15 05:00:58,088 INFO ========================================
+2026-03-15 05:00:58,088 INFO PIPELINE COMPLETE
+2026-03-15 05:00:58,088 INFO ========================================
+2026-03-15 05:02:10,071 INFO Database initialised at data/geopulse.db
+2026-03-15 05:02:10,072 INFO ========================================
+2026-03-15 05:02:10,072 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 05:02:10,072 INFO ========================================
+2026-03-15 05:02:10,204 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 05:02:10,314 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 05:02:10,428 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 05:02:10,544 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 05:02:10,665 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 05:02:10,881 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 05:02:11,083 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 05:02:11,326 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 05:02:11,570 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 05:02:11,823 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 05:02:12,030 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 05:02:12,297 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 05:02:12,538 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 05:02:12,770 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 05:02:12,978 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 05:02:13,185 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 05:02:13,394 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 05:02:13,615 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 05:02:13,852 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 05:02:14,070 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 05:02:14,281 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 05:02:14,486 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 05:02:14,680 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 05:02:14,872 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 05:02:15,073 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 05:02:15,288 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 05:02:15,512 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 05:02:15,723 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 05:02:15,923 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 05:02:16,157 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 05:02:16,373 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 05:02:16,573 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 05:02:16,770 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 05:02:16,993 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 05:02:17,211 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 05:02:17,431 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 05:02:17,633 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 05:02:17,816 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 05:02:18,004 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 05:02:18,225 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 05:02:18,422 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 05:02:18,598 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 05:02:18,797 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 05:02:18,999 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 05:02:19,198 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 05:02:19,397 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 05:02:19,605 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 05:02:19,801 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 05:02:19,995 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 05:02:20,200 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 05:02:20,419 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 05:02:20,621 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 05:02:20,823 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 05:02:21,012 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 05:02:21,212 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 05:02:21,420 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 05:02:21,615 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 05:02:21,848 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 05:02:22,059 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 05:02:22,297 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 05:02:22,503 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 05:02:22,744 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 05:02:22,951 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 05:02:23,180 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 05:02:23,399 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 05:02:23,593 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 05:02:23,806 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 05:02:24,028 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 05:02:24,227 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 05:02:24,425 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 05:02:24,621 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 05:02:24,839 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 05:02:25,101 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 05:02:25,288 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 05:02:25,467 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 05:02:25,645 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 05:02:25,834 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 05:02:26,044 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 05:02:26,297 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 05:02:26,505 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 05:02:26,703 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 05:02:26,828 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 05:02:26,952 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 05:02:27,074 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 05:02:27,203 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 05:02:27,332 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 05:02:27,460 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 05:02:27,585 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 05:02:27,712 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 05:02:27,835 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 05:02:27,835 INFO Totale articles fetched: 3757
+2026-03-15 05:02:27,854 INFO Saved 0 new articles to database
+2026-03-15 05:02:27,854 INFO ========================================
+2026-03-15 05:02:27,854 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 05:02:27,854 INFO ========================================
+2026-03-15 05:02:28,229 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 05:02:28,231 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,232 INFO Saved 0 new flights [LHR→DXB]
+2026-03-15 05:02:28,536 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 05:02:28,538 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,538 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,539 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,539 INFO Saved 0 new flights [LHR→TLV]
+2026-03-15 05:02:28,871 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 05:02:28,874 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,874 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,874 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,874 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,874 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,874 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,874 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,874 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,874 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,875 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:28,875 INFO Saved 0 new flights [LHR→DEL]
+2026-03-15 05:02:29,194 INFO Fetched 7 flights [LHR→BKK]
+2026-03-15 05:02:29,195 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,195 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,195 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,195 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,195 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,195 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,195 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,195 INFO Saved 0 new flights [LHR→BKK]
+2026-03-15 05:02:29,423 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 05:02:29,424 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,424 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,424 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,424 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,424 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,424 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,424 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,424 ERROR Failed to save flight: no such table: flight_prices
+2026-03-15 05:02:29,424 INFO Saved 0 new flights [LHR→HKG]
+2026-03-15 05:02:29,720 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 05:02:29,722 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 05:02:29,722 INFO ========================================
+2026-03-15 05:02:29,723 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 05:02:29,723 INFO ========================================
+2026-03-15 05:02:29,723 INFO Fetching states for region: UK_to_Middle_East
+2026-03-15 05:02:30,038 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=24.0&lomin=-10.0&lamax=52.0&lomax=60.0
+2026-03-15 05:02:31,044 INFO Fetching states for region: UK_to_Asia
+2026-03-15 05:02:31,355 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=52.0&lomax=105.0
+2026-03-15 05:02:32,361 INFO Fetching states for region: UK_to_Far_East
+2026-03-15 05:02:32,671 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=60.0&lomax=145.0
+2026-03-15 05:02:33,682 INFO Saved 0 flight states
+2026-03-15 05:02:33,683 INFO ========================================
+2026-03-15 05:02:33,683 INFO STEP 4: Analysing route deviations
+2026-03-15 05:02:33,683 INFO ========================================
+2026-03-15 05:02:33,683 INFO Analysed 0 states — 0 over restricted zones
+2026-03-15 05:02:33,683 INFO No restricted zone violations detected
+2026-03-15 05:02:33,684 INFO ========================================
+2026-03-15 05:02:33,684 INFO PIPELINE COMPLETE
+2026-03-15 05:02:33,684 INFO ========================================
+2026-03-15 05:06:02,629 INFO Database initialised at data/geopulse.db
+2026-03-15 05:06:02,629 INFO ========================================
+2026-03-15 05:06:02,630 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 05:06:02,630 INFO ========================================
+2026-03-15 05:06:02,774 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 05:06:02,898 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 05:06:03,014 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 05:06:03,139 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 05:06:03,256 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 05:06:03,485 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 05:06:03,694 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 05:06:03,991 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 05:06:04,226 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 05:06:04,461 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 05:06:04,671 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 05:06:04,902 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 05:06:05,160 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 05:06:05,369 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 05:06:05,577 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 05:06:05,799 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 05:06:06,007 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 05:06:06,238 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 05:06:06,591 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 05:06:06,792 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 05:06:07,001 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 05:06:07,207 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 05:06:07,415 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 05:06:07,609 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 05:06:07,818 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 05:06:08,013 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 05:06:08,240 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 05:06:08,439 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 05:06:08,642 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 05:06:08,907 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 05:06:09,126 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 05:06:09,336 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 05:06:09,530 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 05:06:09,744 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 05:06:09,958 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 05:06:10,165 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 05:06:10,378 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 05:06:10,568 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 05:06:10,759 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 05:06:10,975 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 05:06:11,167 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 05:06:11,335 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 05:06:11,559 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 05:06:11,763 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 05:06:11,953 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 05:06:12,149 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 05:06:12,352 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 05:06:12,541 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 05:06:12,749 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 05:06:12,963 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 05:06:13,139 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 05:06:13,342 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 05:06:13,551 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 05:06:13,748 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 05:06:13,952 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 05:06:14,160 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 05:06:14,420 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 05:06:14,612 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 05:06:14,817 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 05:06:15,015 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 05:06:15,213 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 05:06:15,417 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 05:06:15,687 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 05:06:15,917 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 05:06:16,139 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 05:06:16,349 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 05:06:16,560 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 05:06:16,758 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 05:06:16,956 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 05:06:17,171 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 05:06:17,365 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 05:06:17,576 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 05:06:17,823 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 05:06:18,048 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 05:06:18,256 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 05:06:18,439 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 05:06:18,630 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 05:06:18,835 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 05:06:19,047 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 05:06:19,245 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 05:06:19,447 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 05:06:19,559 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 05:06:19,679 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 05:06:19,791 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 05:06:19,918 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 05:06:20,053 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 05:06:20,186 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 05:06:20,307 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 05:06:20,428 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 05:06:20,592 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 05:06:20,593 INFO Totale articles fetched: 3757
+2026-03-15 05:06:20,616 INFO Saved 0 new articles to database
+2026-03-15 05:06:20,616 INFO ========================================
+2026-03-15 05:06:20,616 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 05:06:20,616 INFO ========================================
+2026-03-15 05:06:20,979 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 05:06:20,983 INFO Saved 10 new flights [LHR→DXB]
+2026-03-15 05:06:21,209 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 05:06:21,213 INFO Saved 3 new flights [LHR→TLV]
+2026-03-15 05:06:21,532 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 05:06:21,535 INFO Saved 8 new flights [LHR→DEL]
+2026-03-15 05:06:21,835 INFO Fetched 7 flights [LHR→BKK]
+2026-03-15 05:06:21,838 INFO Saved 3 new flights [LHR→BKK]
+2026-03-15 05:06:22,170 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 05:06:22,173 INFO Saved 4 new flights [LHR→HKG]
+2026-03-15 05:06:22,430 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 05:06:22,431 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 05:06:22,431 INFO ========================================
+2026-03-15 05:06:22,431 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 05:06:22,431 INFO ========================================
+2026-03-15 05:06:22,431 INFO Fetching states for region: UK_to_Middle_East
+2026-03-15 05:06:22,758 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=24.0&lomin=-10.0&lamax=52.0&lomax=60.0
+2026-03-15 05:06:23,763 INFO Fetching states for region: UK_to_Asia
+2026-03-15 05:06:24,063 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=52.0&lomax=105.0
+2026-03-15 05:06:25,068 INFO Fetching states for region: UK_to_Far_East
+2026-03-15 05:06:25,384 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=60.0&lomax=145.0
+2026-03-15 05:06:26,396 INFO Saved 0 flight states
+2026-03-15 05:06:26,396 INFO ========================================
+2026-03-15 05:06:26,396 INFO STEP 4: Analysing route deviations
+2026-03-15 05:06:26,396 INFO ========================================
+2026-03-15 05:06:26,396 INFO Analysed 0 states — 0 over restricted zones
+2026-03-15 05:06:26,397 INFO No restricted zone violations detected
+2026-03-15 05:06:26,397 INFO ========================================
+2026-03-15 05:06:26,397 INFO PIPELINE COMPLETE
+2026-03-15 05:06:26,397 INFO ========================================
+2026-03-15 05:18:22,239 INFO Database initialised at data/geopulse.db
+2026-03-15 05:18:22,240 INFO ========================================
+2026-03-15 05:18:22,240 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 05:18:22,240 INFO ========================================
+2026-03-15 05:18:22,478 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 05:18:22,710 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 05:18:22,845 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 05:18:23,061 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 05:18:23,175 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 05:18:23,410 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 05:18:23,649 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 05:18:23,847 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 05:18:24,073 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 05:18:24,325 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 05:18:24,542 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 05:18:24,797 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 05:18:25,119 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 05:18:25,341 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 05:18:25,548 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 05:18:25,769 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 05:18:25,981 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 05:18:26,204 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 05:18:26,419 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 05:18:26,622 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 05:18:26,884 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 05:18:27,083 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 05:18:27,299 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 05:18:27,517 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 05:18:27,725 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 05:18:27,933 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 05:18:28,193 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 05:18:28,403 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 05:18:28,616 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 05:18:28,849 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 05:18:29,074 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 05:18:29,342 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 05:18:29,635 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 05:18:30,873 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 05:18:31,103 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 05:18:31,322 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 05:18:31,557 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 05:18:31,740 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 05:18:31,939 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 05:18:32,139 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 05:18:32,327 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 05:18:32,500 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 05:18:32,698 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 05:18:32,906 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 05:18:33,095 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 05:18:33,298 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 05:18:33,513 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 05:18:33,726 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 05:18:33,929 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 05:18:34,156 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 05:18:34,356 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 05:18:34,582 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 05:18:34,787 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 05:18:34,990 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 05:18:35,190 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 05:18:35,397 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 05:18:35,628 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 05:18:35,835 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 05:18:36,044 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 05:18:36,325 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 05:18:36,693 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 05:18:36,998 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 05:18:37,219 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 05:18:37,432 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 05:18:37,647 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 05:18:37,840 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 05:18:38,069 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 05:18:38,340 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 05:18:38,599 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 05:18:38,816 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 05:18:39,072 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 05:18:39,314 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 05:18:39,577 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 05:18:39,809 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 05:18:40,031 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 05:18:40,245 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 05:18:40,474 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 05:18:40,723 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 05:18:40,987 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 05:18:41,219 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 05:18:41,423 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 05:18:41,568 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 05:18:41,695 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 05:18:41,842 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 05:18:41,977 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 05:18:42,106 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 05:18:42,245 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 05:18:42,366 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 05:18:42,485 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 05:18:42,612 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 05:18:42,612 INFO Totale articles fetched: 3757
+2026-03-15 05:18:42,631 INFO Saved 0 new articles to database
+2026-03-15 05:18:42,631 INFO ========================================
+2026-03-15 05:18:42,631 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 05:18:42,631 INFO ========================================
+2026-03-15 05:18:42,998 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 05:18:43,003 INFO Saved 10 new flights [LHR→DXB]
+2026-03-15 05:18:43,404 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 05:18:43,408 INFO Saved 3 new flights [LHR→TLV]
+2026-03-15 05:18:43,815 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 05:18:43,819 INFO Saved 9 new flights [LHR→DEL]
+2026-03-15 05:18:44,222 INFO Fetched 8 flights [LHR→BKK]
+2026-03-15 05:18:44,226 INFO Saved 4 new flights [LHR→BKK]
+2026-03-15 05:18:44,541 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 05:18:44,545 INFO Saved 4 new flights [LHR→HKG]
+2026-03-15 05:18:44,715 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 05:18:44,716 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 05:18:44,716 INFO ========================================
+2026-03-15 05:18:44,716 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 05:18:44,716 INFO ========================================
+2026-03-15 05:18:44,716 INFO Fetching states for region: UK_to_Middle_East
+2026-03-15 05:18:45,053 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=24.0&lomin=-10.0&lamax=52.0&lomax=60.0
+2026-03-15 05:18:46,059 INFO Fetching states for region: UK_to_Asia
+2026-03-15 05:18:46,355 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=52.0&lomax=105.0
+2026-03-15 05:18:47,361 INFO Fetching states for region: UK_to_Far_East
+2026-03-15 05:18:47,680 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=60.0&lomax=145.0
+2026-03-15 05:18:48,688 INFO Saved 0 flight states
+2026-03-15 05:18:48,689 INFO ========================================
+2026-03-15 05:18:48,689 INFO STEP 4: Analysing route deviations
+2026-03-15 05:18:48,689 INFO ========================================
+2026-03-15 05:18:48,689 INFO Analysed 0 states — 0 over restricted zones
+2026-03-15 05:18:48,689 INFO No restricted zone violations detected
+2026-03-15 05:18:48,689 INFO ========================================
+2026-03-15 05:18:48,689 INFO PIPELINE COMPLETE
+2026-03-15 05:18:48,689 INFO ========================================
+2026-03-15 05:28:03,486 INFO Database initialised at data/geopulse.db
+2026-03-15 05:28:03,486 INFO ========================================
+2026-03-15 05:28:03,486 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 05:28:03,486 INFO ========================================
+2026-03-15 05:28:03,619 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 05:28:03,727 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 05:28:03,846 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 05:28:03,971 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 05:28:04,091 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 05:28:04,309 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 05:28:04,506 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 05:28:04,756 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 05:28:04,984 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 05:28:05,199 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 05:28:05,420 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 05:28:05,697 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 05:28:05,945 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 05:28:06,172 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 05:28:06,390 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 05:28:06,617 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 05:28:06,825 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 05:28:07,040 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 05:28:07,261 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 05:28:07,468 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 05:28:07,681 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 05:28:07,881 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 05:28:08,079 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 05:28:08,274 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 05:28:08,472 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 05:28:08,690 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 05:28:08,910 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 05:28:09,127 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 05:28:09,338 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 05:28:09,562 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 05:28:09,783 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 05:28:09,984 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 05:28:10,172 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 05:28:10,388 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 05:28:10,611 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 05:28:10,815 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 05:28:11,034 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 05:28:11,222 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 05:28:11,407 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 05:28:11,610 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 05:28:11,815 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 05:28:11,983 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 05:28:12,186 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 05:28:12,393 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 05:28:12,599 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 05:28:12,801 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 05:28:13,002 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 05:28:13,222 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 05:28:13,431 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 05:28:13,659 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 05:28:13,844 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 05:28:14,044 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 05:28:14,244 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 05:28:14,447 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 05:28:14,642 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 05:28:14,859 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 05:28:15,061 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 05:28:15,257 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 05:28:15,464 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 05:28:15,654 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 05:28:15,850 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 05:28:16,086 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 05:28:16,303 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 05:28:16,560 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 05:28:16,804 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 05:28:17,013 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 05:28:17,220 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 05:28:17,433 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 05:28:17,671 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 05:28:17,875 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 05:28:18,072 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 05:28:18,275 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 05:28:18,545 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 05:28:18,729 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 05:28:18,918 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 05:28:19,180 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 05:28:19,386 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 05:28:19,607 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 05:28:19,813 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 05:28:20,021 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 05:28:20,207 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 05:28:20,328 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 05:28:20,448 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 05:28:20,568 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 05:28:20,688 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 05:28:20,810 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 05:28:20,932 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 05:28:21,051 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 05:28:21,176 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 05:28:21,305 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 05:28:21,305 INFO Totale articles fetched: 3757
+2026-03-15 05:28:21,334 INFO Saved 3757 new articles to database
+2026-03-15 05:28:21,335 INFO ========================================
+2026-03-15 05:28:21,335 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 05:28:21,335 INFO ========================================
+2026-03-15 05:28:21,696 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 05:28:21,701 INFO Saved 10 new flights [LHR→DXB]
+2026-03-15 05:28:21,983 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 05:28:21,988 INFO Saved 3 new flights [LHR→TLV]
+2026-03-15 05:28:22,383 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 05:28:22,386 INFO Saved 9 new flights [LHR→DEL]
+2026-03-15 05:28:22,603 INFO Fetched 8 flights [LHR→BKK]
+2026-03-15 05:28:22,607 INFO Saved 4 new flights [LHR→BKK]
+2026-03-15 05:28:22,895 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 05:28:22,900 INFO Saved 4 new flights [LHR→HKG]
+2026-03-15 05:28:23,166 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 05:28:23,168 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 05:28:23,169 INFO ========================================
+2026-03-15 05:28:23,169 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 05:28:23,169 INFO ========================================
+2026-03-15 05:28:23,169 INFO Fetching states for region: UK_to_Middle_East
+2026-03-15 05:28:23,487 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=24.0&lomin=-10.0&lamax=52.0&lomax=60.0
+2026-03-15 05:28:24,491 INFO Fetching states for region: UK_to_Asia
+2026-03-15 05:28:24,803 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=52.0&lomax=105.0
+2026-03-15 05:28:25,812 INFO Fetching states for region: UK_to_Far_East
+2026-03-15 05:28:26,120 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=60.0&lomax=145.0
+2026-03-15 05:28:27,132 INFO Saved 0 flight states
+2026-03-15 05:28:27,132 INFO ========================================
+2026-03-15 05:28:27,133 INFO STEP 4: Analysing route deviations
+2026-03-15 05:28:27,133 INFO ========================================
+2026-03-15 05:28:27,133 INFO Analysed 0 states — 0 over restricted zones
+2026-03-15 05:28:27,133 INFO No restricted zone violations detected
+2026-03-15 05:28:27,133 INFO ========================================
+2026-03-15 05:28:27,133 INFO PIPELINE COMPLETE
+2026-03-15 05:28:27,133 INFO ========================================
+2026-03-15 05:35:15,750 INFO Database initialised at data/geopulse.db
+2026-03-15 05:35:15,750 INFO ========================================
+2026-03-15 05:35:15,750 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 05:35:15,750 INFO ========================================
+2026-03-15 05:35:15,899 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 05:35:16,014 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 05:35:16,138 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 05:35:16,282 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 05:35:16,399 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 05:35:16,629 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 05:35:16,830 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 05:35:17,078 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 05:35:17,338 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 05:35:17,578 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 05:35:17,772 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 05:35:18,007 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 05:35:18,247 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 05:35:18,489 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 05:35:18,697 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 05:35:18,912 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 05:35:19,149 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 05:35:19,373 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 05:35:19,609 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 05:35:19,818 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 05:35:20,052 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 05:35:20,253 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 05:35:20,461 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 05:35:20,656 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 05:35:20,838 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 05:35:21,046 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 05:35:21,266 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 05:35:21,479 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 05:35:21,686 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 05:35:21,910 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 05:35:22,126 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 05:35:22,400 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 05:35:22,600 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 05:35:22,815 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 05:35:23,047 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 05:35:23,297 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 05:35:23,515 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 05:35:23,700 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 05:35:23,892 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 05:35:24,106 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 05:35:24,306 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 05:35:24,475 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 05:35:24,688 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 05:35:24,898 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 05:35:25,115 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 05:35:25,356 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 05:35:25,594 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 05:35:25,806 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 05:35:26,022 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 05:35:26,249 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 05:35:26,493 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 05:35:26,691 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 05:35:26,924 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 05:35:27,122 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 05:35:27,312 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 05:35:27,533 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 05:35:28,020 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 05:35:28,285 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 05:35:28,506 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 05:35:28,810 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 05:35:29,004 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 05:35:29,225 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 05:35:29,552 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 05:35:29,914 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 05:35:30,280 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 05:35:30,474 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 05:35:30,797 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 05:35:31,003 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 05:35:31,216 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 05:35:31,431 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 05:35:31,647 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 05:35:31,849 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 05:35:32,118 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 05:35:32,309 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 05:35:32,502 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 05:35:32,695 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 05:35:32,896 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 05:35:33,099 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 05:35:33,319 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 05:35:33,554 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 05:35:33,766 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 05:35:33,887 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 05:35:34,016 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 05:35:34,136 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 05:35:34,258 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 05:35:34,381 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 05:35:34,504 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 05:35:34,630 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 05:35:34,756 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 05:35:34,878 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 05:35:34,879 INFO Totale articles fetched: 3757
+2026-03-15 05:35:34,907 INFO Saved 0 new articles to database
+2026-03-15 05:35:34,907 INFO ========================================
+2026-03-15 05:35:34,907 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 05:35:34,907 INFO ========================================
+2026-03-15 05:35:35,238 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 05:35:35,242 INFO Saved 0 new flights [LHR→DXB]
+2026-03-15 05:35:35,540 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 05:35:35,543 INFO Saved 0 new flights [LHR→TLV]
+2026-03-15 05:35:35,884 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 05:35:35,888 INFO Saved 0 new flights [LHR→DEL]
+2026-03-15 05:35:36,159 INFO Fetched 8 flights [LHR→BKK]
+2026-03-15 05:35:36,163 INFO Saved 0 new flights [LHR→BKK]
+2026-03-15 05:35:36,487 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 05:35:36,491 INFO Saved 0 new flights [LHR→HKG]
+2026-03-15 05:35:36,751 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 05:35:36,753 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 05:35:36,753 INFO ========================================
+2026-03-15 05:35:36,753 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 05:35:36,753 INFO ========================================
+2026-03-15 05:35:36,754 INFO Fetching states for region: UK_to_Middle_East
+2026-03-15 05:35:37,107 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=24.0&lomin=-10.0&lamax=52.0&lomax=60.0
+2026-03-15 05:35:38,115 INFO Fetching states for region: UK_to_Asia
+2026-03-15 05:35:38,431 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=52.0&lomax=105.0
+2026-03-15 05:35:39,440 INFO Fetching states for region: UK_to_Far_East
+2026-03-15 05:35:39,770 ERROR OpenSky error: 401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=10.0&lomin=-10.0&lamax=60.0&lomax=145.0
+2026-03-15 05:35:40,777 INFO Saved 0 flight states
+2026-03-15 05:35:40,778 INFO ========================================
+2026-03-15 05:35:40,778 INFO STEP 4: Analysing route deviations
+2026-03-15 05:35:40,778 INFO ========================================
+2026-03-15 05:35:40,778 INFO Analysed 0 states — 0 over restricted zones
+2026-03-15 05:35:40,778 INFO No restricted zone violations detected
+2026-03-15 05:35:40,778 INFO ========================================
+2026-03-15 05:35:40,779 INFO PIPELINE COMPLETE
+2026-03-15 05:35:40,779 INFO ========================================
+2026-03-15 05:55:12,734 INFO Database initialised at data/geopulse.db
+2026-03-15 05:55:12,734 INFO ========================================
+2026-03-15 05:55:12,734 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-15 05:55:12,734 INFO ========================================
+2026-03-15 05:55:12,894 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-15 05:55:13,018 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-15 05:55:13,139 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-15 05:55:13,261 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-15 05:55:13,380 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-15 05:55:13,615 INFO Fetched page 1 [world] — 50 articles
+2026-03-15 05:55:13,831 INFO Fetched page 2 [world] — 50 articles
+2026-03-15 05:55:14,041 INFO Fetched page 3 [world] — 50 articles
+2026-03-15 05:55:14,268 INFO Fetched page 4 [world] — 50 articles
+2026-03-15 05:55:14,500 INFO Fetched page 5 [world] — 50 articles
+2026-03-15 05:55:14,724 INFO Fetched page 6 [world] — 50 articles
+2026-03-15 05:55:14,979 INFO Fetched page 7 [world] — 50 articles
+2026-03-15 05:55:15,219 INFO Fetched page 8 [world] — 50 articles
+2026-03-15 05:55:15,433 INFO Fetched page 9 [world] — 50 articles
+2026-03-15 05:55:15,663 INFO Fetched page 10 [world] — 50 articles
+2026-03-15 05:55:15,882 INFO Fetched page 11 [world] — 50 articles
+2026-03-15 05:55:16,084 INFO Fetched page 12 [world] — 50 articles
+2026-03-15 05:55:16,318 INFO Fetched page 13 [world] — 50 articles
+2026-03-15 05:55:16,537 INFO Fetched page 14 [world] — 50 articles
+2026-03-15 05:55:16,753 INFO Fetched page 15 [world] — 50 articles
+2026-03-15 05:55:16,972 INFO Fetched page 16 [world] — 50 articles
+2026-03-15 05:55:17,178 INFO Fetched page 17 [world] — 50 articles
+2026-03-15 05:55:17,389 INFO Fetched page 18 [world] — 50 articles
+2026-03-15 05:55:17,590 INFO Fetched page 19 [world] — 50 articles
+2026-03-15 05:55:17,835 INFO Fetched page 20 [world] — 50 articles
+2026-03-15 05:55:18,118 INFO Fetched page 21 [world] — 50 articles
+2026-03-15 05:55:18,326 INFO Fetched page 22 [world] — 50 articles
+2026-03-15 05:55:18,634 INFO Fetched page 23 [world] — 50 articles
+2026-03-15 05:55:18,851 INFO Fetched page 24 [world] — 50 articles
+2026-03-15 05:55:19,073 INFO Fetched page 25 [world] — 50 articles
+2026-03-15 05:55:19,296 INFO Fetched page 26 [world] — 50 articles
+2026-03-15 05:55:19,491 INFO Fetched page 27 [world] — 50 articles
+2026-03-15 05:55:19,697 INFO Fetched page 28 [world] — 50 articles
+2026-03-15 05:55:19,924 INFO Fetched page 29 [world] — 50 articles
+2026-03-15 05:55:20,159 INFO Fetched page 30 [world] — 50 articles
+2026-03-15 05:55:20,366 INFO Fetched page 31 [world] — 50 articles
+2026-03-15 05:55:20,566 INFO Fetched page 32 [world] — 50 articles
+2026-03-15 05:55:20,756 INFO Fetched page 33 [world] — 50 articles
+2026-03-15 05:55:20,948 INFO Fetched page 34 [world] — 50 articles
+2026-03-15 05:55:21,162 INFO Fetched page 35 [world] — 50 articles
+2026-03-15 05:55:21,362 INFO Fetched page 36 [world] — 50 articles
+2026-03-15 05:55:21,531 INFO Fetched page 37 [world] — 18 articles
+2026-03-15 05:55:21,736 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-15 05:55:21,947 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-15 05:55:22,142 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-15 05:55:22,359 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-15 05:55:22,560 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-15 05:55:22,799 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-15 05:55:22,996 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-15 05:55:23,227 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-15 05:55:23,421 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-15 05:55:23,690 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-15 05:55:23,899 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-15 05:55:24,099 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-15 05:55:24,331 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-15 05:55:24,535 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-15 05:55:24,743 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-15 05:55:25,015 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-15 05:55:25,391 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-15 05:55:25,583 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-15 05:55:25,880 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-15 05:55:26,097 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-15 05:55:26,309 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-15 05:55:26,547 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-15 05:55:26,775 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-15 05:55:26,968 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-15 05:55:27,181 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-15 05:55:27,373 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-15 05:55:27,593 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-15 05:55:27,814 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-15 05:55:28,005 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-15 05:55:28,233 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-15 05:55:28,469 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-15 05:55:28,665 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-15 05:55:28,855 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-15 05:55:29,055 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-15 05:55:29,291 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-15 05:55:29,501 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-15 05:55:29,710 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-15 05:55:29,924 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-15 05:55:30,114 INFO Fetched page 39 [us-news] — 39 articles
+2026-03-15 05:55:30,244 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-15 05:55:30,365 INFO Fetched page 1 [asia] — 0 articles
+2026-03-15 05:55:30,514 INFO Fetched page 1 [africa] — 0 articles
+2026-03-15 05:55:30,642 INFO Fetched page 1 [europe] — 0 articles
+2026-03-15 05:55:30,775 INFO Fetched page 1 [war] — 0 articles
+2026-03-15 05:55:30,907 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-15 05:55:31,036 INFO Fetched page 1 [friction] — 0 articles
+2026-03-15 05:55:31,172 INFO Fetched page 1 [attack] — 0 articles
+2026-03-15 05:55:31,307 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-15 05:55:31,307 INFO Totale articles fetched: 3757
+2026-03-15 05:55:31,337 INFO Saved 0 new articles to database
+2026-03-15 05:55:31,337 INFO ========================================
+2026-03-15 05:55:31,337 INFO STEP 2: Fetching Aviationstack prices
+2026-03-15 05:55:31,337 INFO ========================================
+2026-03-15 05:55:31,696 INFO Fetched 10 flights [LHR→DXB]
+2026-03-15 05:55:31,699 INFO Saved 0 new flights [LHR→DXB]
+2026-03-15 05:55:32,002 INFO Fetched 3 flights [LHR→TLV]
+2026-03-15 05:55:32,007 INFO Saved 0 new flights [LHR→TLV]
+2026-03-15 05:55:32,415 INFO Fetched 10 flights [LHR→DEL]
+2026-03-15 05:55:32,419 INFO Saved 0 new flights [LHR→DEL]
+2026-03-15 05:55:32,823 INFO Fetched 8 flights [LHR→BKK]
+2026-03-15 05:55:32,827 INFO Saved 0 new flights [LHR→BKK]
+2026-03-15 05:55:33,096 INFO Fetched 8 flights [LHR→HKG]
+2026-03-15 05:55:33,098 INFO Saved 0 new flights [LHR→HKG]
+2026-03-15 05:55:33,269 INFO Fetched 0 flights [LHR→NRT]
+2026-03-15 05:55:33,271 INFO Saved 0 new flights [LHR→NRT]
+2026-03-15 05:55:33,271 INFO ========================================
+2026-03-15 05:55:33,271 INFO STEP 3: Fetching OpenSky flight states
+2026-03-15 05:55:33,271 INFO ========================================
+2026-03-15 05:55:33,420 ERROR Failed to get OpenSky token: 401 Client Error: Unauthorized for url: https://auth.opensky-network.org/auth/realms/opensky-network/protocol/openid-connect/token
+2026-03-15 05:55:33,422 INFO Fetching states for region: UK_to_Middle_East
+2026-03-15 05:55:33,963 INFO Fetched 1197 aircraft states
+2026-03-15 05:55:34,972 INFO Fetching states for region: UK_to_Asia
+2026-03-15 05:55:35,216 INFO Fetched 1608 aircraft states
+2026-03-15 05:55:36,226 INFO Fetching states for region: UK_to_Far_East
+2026-03-15 05:55:36,487 INFO Fetched 2423 aircraft states
+2026-03-15 05:55:37,532 INFO Saved 5228 flight states
+2026-03-15 05:55:37,532 INFO ========================================
+2026-03-15 05:55:37,532 INFO STEP 4: Analysing route deviations
+2026-03-15 05:55:37,532 INFO ========================================
+2026-03-15 05:55:37,537 WARNING Flight WMT8WF detected over: ukrainian_airspace
+2026-03-15 05:55:37,538 WARNING Flight DLH765 detected over: ukrainian_airspace
+2026-03-15 05:55:37,539 WARNING Flight TCHTN detected over: russian_airspace
+2026-03-15 05:55:37,539 WARNING Flight FDX5460 detected over: russian_airspace
+2026-03-15 05:55:37,540 WARNING Flight PGT82DU detected over: russian_airspace
+2026-03-15 05:55:37,540 WARNING Flight PGT95VX detected over: russian_airspace
+2026-03-15 05:55:37,540 WARNING Flight PGT991H detected over: russian_airspace
+2026-03-15 05:55:37,540 WARNING Flight PGT273 detected over: russian_airspace
+2026-03-15 05:55:37,541 WARNING Flight MNB300 detected over: russian_airspace
+2026-03-15 05:55:37,541 WARNING Flight DLH757 detected over: ukrainian_airspace
+2026-03-15 05:55:37,541 WARNING Flight DLH753 detected over: russian_airspace
+2026-03-15 05:55:37,541 WARNING Flight FDX9277 detected over: russian_airspace
+2026-03-15 05:55:37,542 WARNING Flight AFR1053 detected over: russian_airspace
+2026-03-15 05:55:37,543 WARNING Flight THY9DP detected over: russian_airspace
+2026-03-15 05:55:37,543 WARNING Flight THY6996 detected over: russian_airspace
+2026-03-15 05:55:37,543 WARNING Flight THY5TB detected over: russian_airspace
+2026-03-15 05:55:37,544 WARNING Flight THY3YH detected over: russian_airspace
+2026-03-15 05:55:37,544 WARNING Flight THY1HN detected over: russian_airspace
+2026-03-15 05:55:37,544 WARNING Flight THY9KN detected over: russian_airspace
+2026-03-15 05:55:37,545 WARNING Flight THY373 detected over: russian_airspace
+2026-03-15 05:55:37,545 WARNING Flight THY3SP detected over: russian_airspace
+2026-03-15 05:55:37,545 WARNING Flight THY5NY detected over: russian_airspace
+2026-03-15 05:55:37,545 WARNING Flight THY33C detected over: russian_airspace
+2026-03-15 05:55:37,545 WARNING Flight THY175 detected over: russian_airspace
+2026-03-15 05:55:37,545 WARNING Flight THY73G detected over: ukrainian_airspace
+2026-03-15 05:55:37,545 WARNING Flight VSV485 detected over: russian_airspace
+2026-03-15 05:55:37,545 WARNING Flight THY6DS detected over: ukrainian_airspace
+2026-03-15 05:55:37,546 WARNING Flight THY365 detected over: russian_airspace
+2026-03-15 05:55:37,546 WARNING Flight THY30Q detected over: russian_airspace
+2026-03-15 05:55:37,546 WARNING Flight THY1271 detected over: ukrainian_airspace
+2026-03-15 05:55:37,546 WARNING Flight THY7VM detected over: russian_airspace
+2026-03-15 05:55:37,546 WARNING Flight THY60R detected over: russian_airspace
+2026-03-15 05:55:37,546 WARNING Flight THY4JH detected over: russian_airspace
+2026-03-15 05:55:37,546 WARNING Flight THY4RT detected over: ukrainian_airspace
+2026-03-15 05:55:37,546 WARNING Flight UAE161 detected over: red_sea_corridor
+2026-03-15 05:55:37,546 WARNING Flight THY8MT detected over: ukrainian_airspace
+2026-03-15 05:55:37,546 WARNING Flight THY1ER detected over: ukrainian_airspace
+2026-03-15 05:55:37,547 WARNING Flight THY5CV detected over: russian_airspace
+2026-03-15 05:55:37,547 WARNING Flight THY6YK detected over: russian_airspace
+2026-03-15 05:55:37,547 WARNING Flight THY6220 detected over: russian_airspace
+2026-03-15 05:55:37,547 WARNING Flight THY2EU detected over: ukrainian_airspace
+2026-03-15 05:55:37,547 WARNING Flight ETD615 detected over: iranian_airspace
+2026-03-15 05:55:37,547 WARNING Flight THY69W detected over: russian_airspace
+2026-03-15 05:55:37,547 WARNING Flight THY3 detected over: ukrainian_airspace
+2026-03-15 05:55:37,547 WARNING Flight THY67C detected over: ukrainian_airspace
+2026-03-15 05:55:37,548 WARNING Flight YRTWD detected over: ukrainian_airspace
+2026-03-15 05:55:37,548 WARNING Flight YRTWI detected over: ukrainian_airspace
+2026-03-15 05:55:37,550 WARNING Flight ABY684 detected over: iranian_airspace
+2026-03-15 05:55:37,550 WARNING Flight MEA247 detected over: russian_airspace
+2026-03-15 05:55:37,550 WARNING Flight EVA061 detected over: ukrainian_airspace
+2026-03-15 05:55:37,551 WARNING Flight CLX57 detected over: ukrainian_airspace
+2026-03-15 05:55:37,551 WARNING Flight LOT7MW detected over: ukrainian_airspace
+2026-03-15 05:55:37,551 WARNING Flight TGZ931 detected over: russian_airspace
+2026-03-15 05:55:37,551 WARNING Flight CMS501D detected over: russian_airspace
+2026-03-15 05:55:37,551 WARNING Flight SIA330 detected over: russian_airspace
+2026-03-15 05:55:37,551 WARNING Flight SIA302 detected over: ukrainian_airspace
+2026-03-15 05:55:37,551 WARNING Flight CAL5021 detected over: russian_airspace
+2026-03-15 05:55:37,552 WARNING Flight FJL741 detected over: iranian_airspace
+2026-03-15 05:55:37,552 WARNING Flight GEC8374 detected over: ukrainian_airspace
+2026-03-15 05:55:37,552 WARNING Flight GEC8413 detected over: ukrainian_airspace
+2026-03-15 05:55:37,552 WARNING Flight MSC815 detected over: red_sea_corridor
+2026-03-15 05:55:37,552 WARNING Flight MSC902 detected over: russian_airspace
+2026-03-15 05:55:37,553 WARNING Flight BTI725 detected over: russian_airspace
+2026-03-15 05:55:37,553 WARNING Flight UZB271 detected over: russian_airspace
+2026-03-15 05:55:37,553 WARNING Flight RBG416 detected over: red_sea_corridor
+2026-03-15 05:55:37,553 WARNING Flight THY8LG detected over: russian_airspace, ukrainian_airspace
+2026-03-15 05:55:37,554 WARNING Flight TKJ278 detected over: ukrainian_airspace
+2026-03-15 05:55:37,554 WARNING Flight THY1BX detected over: russian_airspace
+2026-03-15 05:55:37,555 WARNING Flight  detected over: russian_airspace
+2026-03-15 05:55:37,555 WARNING Flight RYR4XW detected over: ukrainian_airspace
+2026-03-15 05:55:37,555 WARNING Flight THY4ZL detected over: russian_airspace
+2026-03-15 05:55:37,555 WARNING Flight THY366 detected over: russian_airspace
+2026-03-15 05:55:37,555 WARNING Flight TKJ8YZ detected over: ukrainian_airspace
+2026-03-15 05:55:37,557 WARNING Flight RWZ9006 detected over: russian_airspace
+2026-03-15 05:55:37,557 WARNING Flight STW001 detected over: ukrainian_airspace
+2026-03-15 05:55:37,557 WARNING Flight STW123 detected over: ukrainian_airspace
+2026-03-15 05:55:37,558 WARNING Flight VIR359 detected over: russian_airspace, ukrainian_airspace
+2026-03-15 05:55:37,560 WARNING Flight PGT603D detected over: ukrainian_airspace
+2026-03-15 05:55:37,560 WARNING Flight PGT67P detected over: ukrainian_airspace
+2026-03-15 05:55:37,560 WARNING Flight PGT101 detected over: russian_airspace
+2026-03-15 05:55:37,560 WARNING Flight PGT1522 detected over: ukrainian_airspace
+2026-03-15 05:55:37,561 WARNING Flight WMT3HY detected over: ukrainian_airspace
+2026-03-15 05:55:37,563 WARNING Flight WMT8WF detected over: ukrainian_airspace
+2026-03-15 05:55:37,564 WARNING Flight DLH765 detected over: ukrainian_airspace
+2026-03-15 05:55:37,565 WARNING Flight TCHTN detected over: russian_airspace
+2026-03-15 05:55:37,565 WARNING Flight FDX5460 detected over: russian_airspace
+2026-03-15 05:55:37,566 WARNING Flight PGT82DU detected over: russian_airspace
+2026-03-15 05:55:37,566 WARNING Flight PGT95VX detected over: russian_airspace
+2026-03-15 05:55:37,566 WARNING Flight PGT991H detected over: russian_airspace
+2026-03-15 05:55:37,566 WARNING Flight PGT273 detected over: russian_airspace
+2026-03-15 05:55:37,566 WARNING Flight MNB300 detected over: russian_airspace
+2026-03-15 05:55:37,567 WARNING Flight DLH757 detected over: ukrainian_airspace
+2026-03-15 05:55:37,567 WARNING Flight DLH753 detected over: russian_airspace
+2026-03-15 05:55:37,567 WARNING Flight FDX9277 detected over: russian_airspace
+2026-03-15 05:55:37,568 WARNING Flight AFR1053 detected over: russian_airspace
+2026-03-15 05:55:37,569 WARNING Flight THY9DP detected over: russian_airspace
+2026-03-15 05:55:37,569 WARNING Flight THY6996 detected over: russian_airspace
+2026-03-15 05:55:37,569 WARNING Flight THY5TB detected over: russian_airspace
+2026-03-15 05:55:37,570 WARNING Flight THY3YH detected over: russian_airspace
+2026-03-15 05:55:37,571 WARNING Flight THY1HN detected over: russian_airspace
+2026-03-15 05:55:37,571 WARNING Flight THY9KN detected over: russian_airspace
+2026-03-15 05:55:37,571 WARNING Flight THY373 detected over: russian_airspace
+2026-03-15 05:55:37,571 WARNING Flight THY3SP detected over: russian_airspace
+2026-03-15 05:55:37,571 WARNING Flight THY5NY detected over: russian_airspace
+2026-03-15 05:55:37,571 WARNING Flight THY33C detected over: russian_airspace
+2026-03-15 05:55:37,572 WARNING Flight THY175 detected over: russian_airspace
+2026-03-15 05:55:37,572 WARNING Flight THY73G detected over: ukrainian_airspace
+2026-03-15 05:55:37,572 WARNING Flight VSV485 detected over: russian_airspace
+2026-03-15 05:55:37,572 WARNING Flight THY6DS detected over: ukrainian_airspace
+2026-03-15 05:55:37,572 WARNING Flight THY365 detected over: russian_airspace
+2026-03-15 05:55:37,572 WARNING Flight THY30Q detected over: russian_airspace
+2026-03-15 05:55:37,572 WARNING Flight THY1271 detected over: ukrainian_airspace
+2026-03-15 05:55:37,572 WARNING Flight THY7VM detected over: russian_airspace
+2026-03-15 05:55:37,572 WARNING Flight THY60R detected over: russian_airspace
+2026-03-15 05:55:37,573 WARNING Flight THY4JH detected over: russian_airspace
+2026-03-15 05:55:37,573 WARNING Flight THY4RT detected over: ukrainian_airspace
+2026-03-15 05:55:37,573 WARNING Flight UAE161 detected over: red_sea_corridor
+2026-03-15 05:55:37,573 WARNING Flight THY8MT detected over: ukrainian_airspace
+2026-03-15 05:55:37,573 WARNING Flight THY1ER detected over: ukrainian_airspace
+2026-03-15 05:55:37,573 WARNING Flight THY5CV detected over: russian_airspace
+2026-03-15 05:55:37,573 WARNING Flight THY6YK detected over: russian_airspace
+2026-03-15 05:55:37,573 WARNING Flight THY6220 detected over: russian_airspace
+2026-03-15 05:55:37,573 WARNING Flight ETD615 detected over: iranian_airspace
+2026-03-15 05:55:37,573 WARNING Flight THY69W detected over: russian_airspace
+2026-03-15 05:55:37,574 WARNING Flight THY3 detected over: ukrainian_airspace
+2026-03-15 05:55:37,574 WARNING Flight THY67C detected over: ukrainian_airspace
+2026-03-15 05:55:37,575 WARNING Flight YRTWD detected over: ukrainian_airspace
+2026-03-15 05:55:37,575 WARNING Flight YRTWI detected over: ukrainian_airspace
+2026-03-15 05:55:37,576 WARNING Flight ABY684 detected over: iranian_airspace
+2026-03-15 05:55:37,577 WARNING Flight MEA247 detected over: russian_airspace
+2026-03-15 05:55:37,577 WARNING Flight EVA061 detected over: ukrainian_airspace
+2026-03-15 05:55:37,577 WARNING Flight CLX57 detected over: ukrainian_airspace
+2026-03-15 05:55:37,577 WARNING Flight LOT7MW detected over: ukrainian_airspace
+2026-03-15 05:55:37,578 WARNING Flight TGZ931 detected over: russian_airspace
+2026-03-15 05:55:37,578 WARNING Flight CMS501D detected over: russian_airspace
+2026-03-15 05:55:37,578 WARNING Flight SIA330 detected over: russian_airspace
+2026-03-15 05:55:37,579 WARNING Flight SIA302 detected over: ukrainian_airspace
+2026-03-15 05:55:37,579 WARNING Flight CAL5021 detected over: russian_airspace
+2026-03-15 05:55:37,579 WARNING Flight FJL741 detected over: iranian_airspace
+2026-03-15 05:55:37,579 WARNING Flight GEC8374 detected over: ukrainian_airspace
+2026-03-15 05:55:37,579 WARNING Flight GEC8413 detected over: ukrainian_airspace
+2026-03-15 05:55:37,579 WARNING Flight MSC815 detected over: red_sea_corridor
+2026-03-15 05:55:37,580 WARNING Flight MSC902 detected over: russian_airspace
+2026-03-15 05:55:37,580 WARNING Flight BTI725 detected over: russian_airspace
+2026-03-15 05:55:37,580 WARNING Flight UZB271 detected over: russian_airspace
+2026-03-15 05:55:37,580 WARNING Flight RBG416 detected over: red_sea_corridor
+2026-03-15 05:55:37,580 WARNING Flight THY8LG detected over: russian_airspace, ukrainian_airspace
+2026-03-15 05:55:37,580 WARNING Flight TKJ278 detected over: ukrainian_airspace
+2026-03-15 05:55:37,581 WARNING Flight THY1BX detected over: russian_airspace
+2026-03-15 05:55:37,581 WARNING Flight  detected over: russian_airspace
+2026-03-15 05:55:37,581 WARNING Flight RYR4XW detected over: ukrainian_airspace
+2026-03-15 05:55:37,582 WARNING Flight THY4ZL detected over: russian_airspace
+2026-03-15 05:55:37,582 WARNING Flight THY366 detected over: russian_airspace
+2026-03-15 05:55:37,582 WARNING Flight TKJ8YZ detected over: ukrainian_airspace
+2026-03-15 05:55:37,586 WARNING Flight RWZ9006 detected over: russian_airspace
+2026-03-15 05:55:37,587 WARNING Flight SBI5703 detected over: russian_airspace
+2026-03-15 05:55:37,587 WARNING Flight STW001 detected over: ukrainian_airspace
+2026-03-15 05:55:37,588 WARNING Flight BRU754 detected over: russian_airspace
+2026-03-15 05:55:37,588 WARNING Flight STW123 detected over: ukrainian_airspace
+2026-03-15 05:55:37,589 WARNING Flight VIR359 detected over: russian_airspace, ukrainian_airspace
+2026-03-15 05:55:37,595 WARNING Flight PGT603D detected over: ukrainian_airspace
+2026-03-15 05:55:37,595 WARNING Flight PGT67P detected over: ukrainian_airspace
+2026-03-15 05:55:37,595 WARNING Flight PGT101 detected over: russian_airspace
+2026-03-15 05:55:37,595 WARNING Flight PGT1522 detected over: ukrainian_airspace
+2026-03-15 05:55:37,596 WARNING Flight WMT3HY detected over: ukrainian_airspace
+2026-03-15 05:55:37,599 WARNING Flight WMT8WF detected over: ukrainian_airspace
+2026-03-15 05:55:37,599 WARNING Flight DLH765 detected over: ukrainian_airspace
+2026-03-15 05:55:37,600 WARNING Flight TCHTN detected over: russian_airspace
+2026-03-15 05:55:37,601 WARNING Flight FDX5460 detected over: russian_airspace
+2026-03-15 05:55:37,601 WARNING Flight JAL2753 detected over: russian_airspace
+2026-03-15 05:55:37,602 WARNING Flight PGT82DU detected over: russian_airspace
+2026-03-15 05:55:37,602 WARNING Flight PGT95VX detected over: russian_airspace
+2026-03-15 05:55:37,602 WARNING Flight PGT991H detected over: russian_airspace
+2026-03-15 05:55:37,602 WARNING Flight PGT273 detected over: russian_airspace
+2026-03-15 05:55:37,602 WARNING Flight MNB300 detected over: russian_airspace
+2026-03-15 05:55:37,603 WARNING Flight DLH757 detected over: ukrainian_airspace
+2026-03-15 05:55:37,603 WARNING Flight DLH753 detected over: russian_airspace
+2026-03-15 05:55:37,604 WARNING Flight FDX9277 detected over: russian_airspace
+2026-03-15 05:55:37,604 WARNING Flight SBI3008 detected over: russian_airspace
+2026-03-15 05:55:37,604 WARNING Flight CES280 detected over: russian_airspace
+2026-03-15 05:55:37,605 WARNING Flight AFR1053 detected over: russian_airspace
+2026-03-15 05:55:37,606 WARNING Flight TYA406 detected over: russian_airspace
+2026-03-15 05:55:37,607 WARNING Flight THY9DP detected over: russian_airspace
+2026-03-15 05:55:37,608 WARNING Flight THY6996 detected over: russian_airspace
+2026-03-15 05:55:37,608 WARNING Flight THY5TB detected over: russian_airspace
+2026-03-15 05:55:37,608 WARNING Flight UTA333 detected over: russian_airspace
+2026-03-15 05:55:37,608 WARNING Flight THY3YH detected over: russian_airspace
+2026-03-15 05:55:37,609 WARNING Flight THY1HN detected over: russian_airspace
+2026-03-15 05:55:37,609 WARNING Flight THY9KN detected over: russian_airspace
+2026-03-15 05:55:37,609 WARNING Flight THY373 detected over: russian_airspace
+2026-03-15 05:55:37,609 WARNING Flight THY3SP detected over: russian_airspace
+2026-03-15 05:55:37,609 WARNING Flight THY5NY detected over: russian_airspace
+2026-03-15 05:55:37,609 WARNING Flight THY33C detected over: russian_airspace
+2026-03-15 05:55:37,610 WARNING Flight FDA166 detected over: russian_airspace
+2026-03-15 05:55:37,610 WARNING Flight CRK692 detected over: russian_airspace
+2026-03-15 05:55:37,610 WARNING Flight ADO25 detected over: russian_airspace
+2026-03-15 05:55:37,611 WARNING Flight THY175 detected over: russian_airspace
+2026-03-15 05:55:37,611 WARNING Flight THY73G detected over: ukrainian_airspace
+2026-03-15 05:55:37,611 WARNING Flight VSV485 detected over: russian_airspace
+2026-03-15 05:55:37,611 WARNING Flight THY6DS detected over: ukrainian_airspace
+2026-03-15 05:55:37,611 WARNING Flight THY365 detected over: russian_airspace
+2026-03-15 05:55:37,612 WARNING Flight THY30Q detected over: russian_airspace
+2026-03-15 05:55:37,612 WARNING Flight THY1271 detected over: ukrainian_airspace
+2026-03-15 05:55:37,612 WARNING Flight THY7VM detected over: russian_airspace
+2026-03-15 05:55:37,612 WARNING Flight THY60R detected over: russian_airspace
+2026-03-15 05:55:37,613 WARNING Flight THY4JH detected over: russian_airspace
+2026-03-15 05:55:37,613 WARNING Flight THY4RT detected over: ukrainian_airspace
+2026-03-15 05:55:37,613 WARNING Flight UAE161 detected over: red_sea_corridor
+2026-03-15 05:55:37,613 WARNING Flight THY8MT detected over: ukrainian_airspace
+2026-03-15 05:55:37,614 WARNING Flight THY1ER detected over: ukrainian_airspace
+2026-03-15 05:55:37,614 WARNING Flight THY5CV detected over: russian_airspace
+2026-03-15 05:55:37,614 WARNING Flight THY6YK detected over: russian_airspace
+2026-03-15 05:55:37,614 WARNING Flight THY6220 detected over: russian_airspace
+2026-03-15 05:55:37,614 WARNING Flight THY2EU detected over: ukrainian_airspace
+2026-03-15 05:55:37,614 WARNING Flight ETD615 detected over: iranian_airspace
+2026-03-15 05:55:37,614 WARNING Flight THY69W detected over: russian_airspace
+2026-03-15 05:55:37,614 WARNING Flight THY3 detected over: ukrainian_airspace
+2026-03-15 05:55:37,615 WARNING Flight THY67C detected over: ukrainian_airspace
+2026-03-15 05:55:37,615 WARNING Flight CCA8659 detected over: russian_airspace
+2026-03-15 05:55:37,616 WARNING Flight YRTWD detected over: ukrainian_airspace
+2026-03-15 05:55:37,616 WARNING Flight YRTWI detected over: ukrainian_airspace
+2026-03-15 05:55:37,616 WARNING Flight CES591 detected over: russian_airspace
+2026-03-15 05:55:37,618 WARNING Flight ABY684 detected over: iranian_airspace
+2026-03-15 05:55:37,618 WARNING Flight AFL1623 detected over: russian_airspace
+2026-03-15 05:55:37,618 WARNING Flight AFL1148 detected over: russian_airspace
+2026-03-15 05:55:37,619 WARNING Flight SVR2167 detected over: russian_airspace
+2026-03-15 05:55:37,619 WARNING Flight AFL1835 detected over: russian_airspace
+2026-03-15 05:55:37,619 WARNING Flight MEA247 detected over: russian_airspace
+2026-03-15 05:55:37,619 WARNING Flight SVR371 detected over: russian_airspace
+2026-03-15 05:55:37,619 WARNING Flight AFL2954 detected over: russian_airspace
+2026-03-15 05:55:37,619 WARNING Flight EVA061 detected over: ukrainian_airspace
+2026-03-15 05:55:37,619 WARNING Flight CLX57 detected over: ukrainian_airspace
+2026-03-15 05:55:37,619 WARNING Flight CPA580 detected over: russian_airspace
+2026-03-15 05:55:37,620 WARNING Flight LOT7MW detected over: ukrainian_airspace
+2026-03-15 05:55:37,620 WARNING Flight RFE9770 detected over: russian_airspace
+2026-03-15 05:55:37,620 WARNING Flight TGZ931 detected over: russian_airspace
+2026-03-15 05:55:37,620 WARNING Flight CMS501D detected over: russian_airspace
+2026-03-15 05:55:37,620 WARNING Flight SIA330 detected over: russian_airspace
+2026-03-15 05:55:37,620 WARNING Flight SIA302 detected over: ukrainian_airspace
+2026-03-15 05:55:37,621 WARNING Flight CAL5021 detected over: russian_airspace
+2026-03-15 05:55:37,621 WARNING Flight FJL741 detected over: iranian_airspace
+2026-03-15 05:55:37,621 WARNING Flight GEC8374 detected over: ukrainian_airspace
+2026-03-15 05:55:37,621 WARNING Flight GEC8413 detected over: ukrainian_airspace
+2026-03-15 05:55:37,622 WARNING Flight MSC815 detected over: red_sea_corridor
+2026-03-15 05:55:37,622 WARNING Flight RSX3114 detected over: russian_airspace
+2026-03-15 05:55:37,622 WARNING Flight MSC902 detected over: russian_airspace
+2026-03-15 05:55:37,623 WARNING Flight APJ466 detected over: russian_airspace
+2026-03-15 05:55:37,623 WARNING Flight BTI725 detected over: russian_airspace
+2026-03-15 05:55:37,623 WARNING Flight UZB271 detected over: russian_airspace
+2026-03-15 05:55:37,623 WARNING Flight FIN1HF detected over: russian_airspace
+2026-03-15 05:55:37,624 WARNING Flight RBG416 detected over: red_sea_corridor
+2026-03-15 05:55:37,624 WARNING Flight THY8LG detected over: russian_airspace, ukrainian_airspace
+2026-03-15 05:55:37,624 WARNING Flight TKJ278 detected over: ukrainian_airspace
+2026-03-15 05:55:37,624 WARNING Flight CSN8027 detected over: russian_airspace
+2026-03-15 05:55:37,625 WARNING Flight THY1BX detected over: russian_airspace
+2026-03-15 05:55:37,625 WARNING Flight ADO84 detected over: russian_airspace
+2026-03-15 05:55:37,625 WARNING Flight  detected over: russian_airspace
+2026-03-15 05:55:37,625 WARNING Flight RYR4XW detected over: ukrainian_airspace
+2026-03-15 05:55:37,626 WARNING Flight THY4ZL detected over: russian_airspace
+2026-03-15 05:55:37,626 WARNING Flight THY366 detected over: russian_airspace
+2026-03-15 05:55:37,626 WARNING Flight TKJ8YZ detected over: ukrainian_airspace
+2026-03-15 05:55:37,628 WARNING Flight APJ111 detected over: russian_airspace
+2026-03-15 05:55:37,629 WARNING Flight AFL1886 detected over: russian_airspace
+2026-03-15 05:55:37,629 WARNING Flight RWZ9006 detected over: russian_airspace
+2026-03-15 05:55:37,629 WARNING Flight SBI5250 detected over: russian_airspace
+2026-03-15 05:55:37,629 WARNING Flight SBI5703 detected over: russian_airspace
+2026-03-15 05:55:37,630 WARNING Flight STW001 detected over: ukrainian_airspace
+2026-03-15 05:55:37,630 WARNING Flight BRU754 detected over: russian_airspace
+2026-03-15 05:55:37,630 WARNING Flight STW123 detected over: ukrainian_airspace
+2026-03-15 05:55:37,630 WARNING Flight ANA1174 detected over: russian_airspace
+2026-03-15 05:55:37,631 WARNING Flight VIR359 detected over: russian_airspace, ukrainian_airspace
+2026-03-15 05:55:37,632 WARNING Flight SBI2041 detected over: russian_airspace
+2026-03-15 05:55:37,632 WARNING Flight FIE324 detected over: russian_airspace
+2026-03-15 05:55:37,633 WARNING Flight BRU8215 detected over: russian_airspace
+2026-03-15 05:55:37,633 WARNING Flight BRU941 detected over: russian_airspace
+2026-03-15 05:55:37,633 WARNING Flight PGT603D detected over: ukrainian_airspace
+2026-03-15 05:55:37,633 WARNING Flight PGT67P detected over: ukrainian_airspace
+2026-03-15 05:55:37,634 WARNING Flight PGT101 detected over: russian_airspace
+2026-03-15 05:55:37,634 WARNING Flight PGT1522 detected over: ukrainian_airspace
+2026-03-15 05:55:37,634 WARNING Flight HGB008 detected over: russian_airspace
+2026-03-15 05:55:37,635 WARNING Flight WMT3HY detected over: ukrainian_airspace
+2026-03-15 05:55:37,637 WARNING Flight TOK103 detected over: russian_airspace
+2026-03-15 05:55:37,637 WARNING Flight SWR189 detected over: russian_airspace
+2026-03-15 05:55:37,637 INFO Analysed 5228 states — 283 over restricted zones
+2026-03-15 05:55:37,639 INFO Saved 283 deviation records
+2026-03-15 05:55:37,639 WARNING ALERT: 283 flights detected over restricted airspace
+2026-03-15 05:55:37,639 INFO ========================================
+2026-03-15 05:55:37,639 INFO PIPELINE COMPLETE
+2026-03-15 05:55:37,639 INFO ========================================
