@@ -6,6 +6,7 @@ from geopulse.news.guardian import fetch_articles, save_articles
 from geopulse.flights.aviationstack import fetch_flights, save_flights
 from geopulse.flights.opensky import fetch_all_regions, save_states
 from geopulse.analysis.deviation import analyse_states
+from geopulse.analysis.analyser import run_analysis, get_summary
 
 load_dotenv()
 
@@ -20,12 +21,12 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 WATCHED_ROUTES = [
-    ("LHR", "DXB"),  
-    ("LHR", "TLV"),  
-    ("LHR", "DEL"),  
-    ("LHR", "BKK"),  
-    ("LHR", "HKG"),  
-    ("LHR", "NRT"),  
+    ("LHR", "DXB"),
+    ("LHR", "TLV"),
+    ("LHR", "DEL"),
+    ("LHR", "BKK"),
+    ("LHR", "HKG"),
+    ("LHR", "NRT"),
 ]
 
 def save_deviations(deviations: list[dict], db_path: str):
@@ -51,7 +52,7 @@ def run():
     db_path = os.getenv("DB_PATH", "data/geopulse.db")
     initialise_db(db_path)
 
-   
+    
     logger.info("=" * 40)
     logger.info("STEP 1: Fetching Guardian news (90 days)")
     logger.info("=" * 40)
@@ -78,8 +79,8 @@ def run():
     logger.info("STEP 3: Fetching OpenSky flight states")
     logger.info("=" * 40)
     states = fetch_all_regions(
-    client_id=os.getenv("OPENSKY_CLIENT_ID"),
-    client_secret=os.getenv("OPENSKY_CLIENT_SECRET")
+        client_id=os.getenv("OPENSKY_CLIENT_ID"),
+        client_secret=os.getenv("OPENSKY_CLIENT_SECRET")
     )
     save_states(states, db_path)
 
@@ -97,6 +98,17 @@ def run():
     else:
         logger.info("No restricted zone violations detected")
 
+   
+    logger.info("=" * 40)
+    logger.info("STEP 5: Sentiment analysis + geo tagging")
+    logger.info("=" * 40)
+    run_analysis(db_path)
+    summary = get_summary(db_path)
+    logger.info(f"Sentiment breakdown: {summary['sentiment_breakdown']}")
+    logger.info(f"Geo-tagged articles: {summary['geo_tagged_articles']}")
+    logger.info(f"Flight-relevant articles: {summary['flight_relevant_articles']}")
+
+    
     logger.info("=" * 40)
     logger.info("PIPELINE COMPLETE")
     logger.info("=" * 40)
