@@ -1,0 +1,9 @@
+# Created by pytest automatically.
+venv/
+.env
+data/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+*.db
