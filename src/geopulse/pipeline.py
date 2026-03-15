@@ -7,6 +7,7 @@ from geopulse.flights.aviationstack import fetch_flights, save_flights
 from geopulse.flights.opensky import fetch_all_regions, save_states
 from geopulse.analysis.deviation import analyse_states
 from geopulse.analysis.analyser import run_analysis, get_summary
+from geopulse.analysis.reporter import generate_report
 
 load_dotenv()
 
@@ -108,10 +109,21 @@ def run():
     logger.info(f"Geo-tagged articles: {summary['geo_tagged_articles']}")
     logger.info(f"Flight-relevant articles: {summary['flight_relevant_articles']}")
 
+    logger.info("=" * 40)
+    logger.info("STEP 6: Correlation + prediction report")
+    logger.info("=" * 40)
+    report = generate_report(db_path)
+    logger.info(f"Total deviations recorded: {report['data_summary']['total_deviations']}")
+    logger.info(f"Key findings: {len(report['findings'])}")
+    for finding in report["findings"]:
+        logger.info(f"  >> {finding}")
+    logger.info(f"Model status: {report['model'].get('status', 'n/a')}")
     
     logger.info("=" * 40)
     logger.info("PIPELINE COMPLETE")
     logger.info("=" * 40)
 
+    
+    
 if __name__ == "__main__":
     run()

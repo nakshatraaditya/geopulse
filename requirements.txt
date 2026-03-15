@@ -3,3 +3,7 @@ python-dotenv
 vaderSentiment
 pytest
 shapely
+xgboost
+scikit-learn
+pandas
+numpy
