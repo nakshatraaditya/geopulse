@@ -7,3 +7,5 @@ xgboost
 scikit-learn
 pandas
 numpy
+streamlit
+plotly
