@@ -1,0 +1,9 @@
+{
+  "tests/test_price_model.py::test_very_negative_sentiment_raises_price": true,
+  "tests/test_price_model.py::test_positive_sentiment_lowers_price": true,
+  "tests/test_price_model.py::test_neutral_sentiment_no_change": true,
+  "tests/test_price_model.py::test_high_deviations_raises_price": true,
+  "tests/test_price_model.py::test_no_deviations_no_change": true,
+  "tests/test_price_model.py::test_last_minute_most_expensive": true,
+  "tests/test_price_model.py::test_sweet_spot_cheapest": true
+}

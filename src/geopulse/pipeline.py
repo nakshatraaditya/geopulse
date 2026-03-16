@@ -8,6 +8,8 @@ from geopulse.flights.opensky import fetch_all_regions, save_states
 from geopulse.analysis.deviation import analyse_states
 from geopulse.analysis.analyser import run_analysis, get_summary
 from geopulse.analysis.reporter import generate_report
+from geopulse.flights.fuel import fetch_fuel_prices, save_fuel_prices
+from geopulse.analysis.price_predictor import predict_all_routes
 
 load_dotenv()
 
@@ -119,6 +121,33 @@ def run():
         logger.info(f"  >> {finding}")
     logger.info(f"Model status: {report['model'].get('status', 'n/a')}")
     
+
+
+    # Jet fuel prices
+    logger.info("=" * 40)
+    logger.info("STEP 7: Fetching EIA jet fuel prices")
+    logger.info("=" * 40)
+    fuel_records = fetch_fuel_prices(
+        api_key=os.getenv("EIA_API_KEY"),
+        start="2022-01-01"
+    )
+    save_fuel_prices(fuel_records, db_path)
+
+    # Price predictions
+    logger.info("=" * 40)
+    logger.info("STEP 8: Generating route price predictions")
+    logger.info("=" * 40)
+    predictions = predict_all_routes(db_path)
+    for p in predictions:
+        logger.info(
+            f"{p['label']}: £{p['estimated_price_gbp']} "
+            f"(+{p['pct_above_base']}% above base) — "
+            f"{p['risk_level']} risk"
+        )
+        if p["triggered_zones"]:
+            logger.warning(
+                f"  Triggered by: {', '.join(p['triggered_zones'])}"
+            )
     logger.info("=" * 40)
     logger.info("PIPELINE COMPLETE")
     logger.info("=" * 40)
