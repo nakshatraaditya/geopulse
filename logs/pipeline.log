@@ -4733,3 +4733,511 @@
 2026-03-16 19:37:56,086 INFO ========================================
 2026-03-16 19:37:56,086 INFO PIPELINE COMPLETE
 2026-03-16 19:37:56,086 INFO ========================================
+2026-03-16 19:52:51,632 INFO Database initialised at data/geopulse.db
+2026-03-16 19:52:51,632 INFO ========================================
+2026-03-16 19:52:51,632 INFO STEP 1: Fetching Guardian news (90 days)
+2026-03-16 19:52:51,632 INFO ========================================
+2026-03-16 19:52:51,779 INFO Fetched page 1 [geopolitical] — 0 articles
+2026-03-16 19:52:52,088 INFO Fetched page 1 [international relations] — 0 articles
+2026-03-16 19:52:52,305 INFO Fetched page 1 [diplomacy] — 0 articles
+2026-03-16 19:52:52,418 INFO Fetched page 1 [global politics] — 0 articles
+2026-03-16 19:52:52,539 INFO Fetched page 1 [foreign policy] — 0 articles
+2026-03-16 19:52:52,767 INFO Fetched page 1 [world] — 50 articles
+2026-03-16 19:52:52,985 INFO Fetched page 2 [world] — 50 articles
+2026-03-16 19:52:53,200 INFO Fetched page 3 [world] — 50 articles
+2026-03-16 19:52:53,430 INFO Fetched page 4 [world] — 50 articles
+2026-03-16 19:52:53,672 INFO Fetched page 5 [world] — 50 articles
+2026-03-16 19:52:53,896 INFO Fetched page 6 [world] — 50 articles
+2026-03-16 19:52:54,112 INFO Fetched page 7 [world] — 50 articles
+2026-03-16 19:52:54,340 INFO Fetched page 8 [world] — 50 articles
+2026-03-16 19:52:54,585 INFO Fetched page 9 [world] — 50 articles
+2026-03-16 19:52:54,850 INFO Fetched page 10 [world] — 50 articles
+2026-03-16 19:52:55,068 INFO Fetched page 11 [world] — 50 articles
+2026-03-16 19:52:55,295 INFO Fetched page 12 [world] — 50 articles
+2026-03-16 19:52:55,496 INFO Fetched page 13 [world] — 50 articles
+2026-03-16 19:52:55,717 INFO Fetched page 14 [world] — 50 articles
+2026-03-16 19:52:55,941 INFO Fetched page 15 [world] — 50 articles
+2026-03-16 19:52:56,138 INFO Fetched page 16 [world] — 50 articles
+2026-03-16 19:52:56,343 INFO Fetched page 17 [world] — 50 articles
+2026-03-16 19:52:56,541 INFO Fetched page 18 [world] — 50 articles
+2026-03-16 19:52:56,743 INFO Fetched page 19 [world] — 50 articles
+2026-03-16 19:52:56,943 INFO Fetched page 20 [world] — 50 articles
+2026-03-16 19:52:57,142 INFO Fetched page 21 [world] — 50 articles
+2026-03-16 19:52:57,355 INFO Fetched page 22 [world] — 50 articles
+2026-03-16 19:52:57,571 INFO Fetched page 23 [world] — 50 articles
+2026-03-16 19:52:57,867 INFO Fetched page 24 [world] — 50 articles
+2026-03-16 19:52:58,200 INFO Fetched page 25 [world] — 50 articles
+2026-03-16 19:52:58,510 INFO Fetched page 26 [world] — 50 articles
+2026-03-16 19:52:58,728 INFO Fetched page 27 [world] — 50 articles
+2026-03-16 19:52:58,927 INFO Fetched page 28 [world] — 50 articles
+2026-03-16 19:52:59,122 INFO Fetched page 29 [world] — 50 articles
+2026-03-16 19:52:59,370 INFO Fetched page 30 [world] — 50 articles
+2026-03-16 19:52:59,598 INFO Fetched page 31 [world] — 50 articles
+2026-03-16 19:52:59,802 INFO Fetched page 32 [world] — 50 articles
+2026-03-16 19:53:00,047 INFO Fetched page 33 [world] — 50 articles
+2026-03-16 19:53:00,261 INFO Fetched page 34 [world] — 50 articles
+2026-03-16 19:53:00,440 INFO Fetched page 35 [world] — 50 articles
+2026-03-16 19:53:00,668 INFO Fetched page 36 [world] — 50 articles
+2026-03-16 19:53:00,864 INFO Fetched page 37 [world] — 46 articles
+2026-03-16 19:53:01,065 INFO Fetched page 1 [us-news] — 50 articles
+2026-03-16 19:53:01,280 INFO Fetched page 2 [us-news] — 50 articles
+2026-03-16 19:53:01,472 INFO Fetched page 3 [us-news] — 50 articles
+2026-03-16 19:53:01,686 INFO Fetched page 4 [us-news] — 50 articles
+2026-03-16 19:53:01,897 INFO Fetched page 5 [us-news] — 50 articles
+2026-03-16 19:53:02,174 INFO Fetched page 6 [us-news] — 50 articles
+2026-03-16 19:53:02,378 INFO Fetched page 7 [us-news] — 50 articles
+2026-03-16 19:53:02,626 INFO Fetched page 8 [us-news] — 50 articles
+2026-03-16 19:53:02,833 INFO Fetched page 9 [us-news] — 50 articles
+2026-03-16 19:53:03,050 INFO Fetched page 10 [us-news] — 50 articles
+2026-03-16 19:53:03,334 INFO Fetched page 11 [us-news] — 50 articles
+2026-03-16 19:53:03,560 INFO Fetched page 12 [us-news] — 50 articles
+2026-03-16 19:53:03,767 INFO Fetched page 13 [us-news] — 50 articles
+2026-03-16 19:53:03,980 INFO Fetched page 14 [us-news] — 50 articles
+2026-03-16 19:53:04,197 INFO Fetched page 15 [us-news] — 50 articles
+2026-03-16 19:53:04,398 INFO Fetched page 16 [us-news] — 50 articles
+2026-03-16 19:53:04,602 INFO Fetched page 17 [us-news] — 50 articles
+2026-03-16 19:53:04,922 INFO Fetched page 18 [us-news] — 50 articles
+2026-03-16 19:53:05,255 INFO Fetched page 19 [us-news] — 50 articles
+2026-03-16 19:53:05,455 INFO Fetched page 20 [us-news] — 50 articles
+2026-03-16 19:53:06,661 INFO Fetched page 21 [us-news] — 50 articles
+2026-03-16 19:53:06,891 INFO Fetched page 22 [us-news] — 50 articles
+2026-03-16 19:53:07,125 INFO Fetched page 23 [us-news] — 50 articles
+2026-03-16 19:53:07,349 INFO Fetched page 24 [us-news] — 50 articles
+2026-03-16 19:53:07,551 INFO Fetched page 25 [us-news] — 50 articles
+2026-03-16 19:53:07,772 INFO Fetched page 26 [us-news] — 50 articles
+2026-03-16 19:53:07,972 INFO Fetched page 27 [us-news] — 50 articles
+2026-03-16 19:53:08,213 INFO Fetched page 28 [us-news] — 50 articles
+2026-03-16 19:53:08,425 INFO Fetched page 29 [us-news] — 50 articles
+2026-03-16 19:53:08,651 INFO Fetched page 30 [us-news] — 50 articles
+2026-03-16 19:53:08,888 INFO Fetched page 31 [us-news] — 50 articles
+2026-03-16 19:53:09,106 INFO Fetched page 32 [us-news] — 50 articles
+2026-03-16 19:53:09,296 INFO Fetched page 33 [us-news] — 50 articles
+2026-03-16 19:53:09,505 INFO Fetched page 34 [us-news] — 50 articles
+2026-03-16 19:53:09,717 INFO Fetched page 35 [us-news] — 50 articles
+2026-03-16 19:53:09,930 INFO Fetched page 36 [us-news] — 50 articles
+2026-03-16 19:53:10,139 INFO Fetched page 37 [us-news] — 50 articles
+2026-03-16 19:53:10,399 INFO Fetched page 38 [us-news] — 50 articles
+2026-03-16 19:53:10,611 INFO Fetched page 39 [us-news] — 47 articles
+2026-03-16 19:53:10,736 INFO Fetched page 1 [middle-east] — 0 articles
+2026-03-16 19:53:10,866 INFO Fetched page 1 [asia] — 0 articles
+2026-03-16 19:53:11,027 INFO Fetched page 1 [africa] — 0 articles
+2026-03-16 19:53:11,151 INFO Fetched page 1 [europe] — 0 articles
+2026-03-16 19:53:11,280 INFO Fetched page 1 [war] — 0 articles
+2026-03-16 19:53:11,411 INFO Fetched page 1 [conflict] — 0 articles
+2026-03-16 19:53:11,543 INFO Fetched page 1 [friction] — 0 articles
+2026-03-16 19:53:11,665 INFO Fetched page 1 [attack] — 0 articles
+2026-03-16 19:53:12,806 INFO Fetched page 1 [WW3] — 0 articles
+2026-03-16 19:53:12,806 INFO Totale articles fetched: 3793
+2026-03-16 19:53:12,842 INFO Saved 2 new articles to database
+2026-03-16 19:53:12,842 INFO ========================================
+2026-03-16 19:53:12,842 INFO STEP 2: Fetching Aviationstack prices
+2026-03-16 19:53:12,842 INFO ========================================
+2026-03-16 19:53:13,318 INFO Fetched 10 flights [LHR→DXB]
+2026-03-16 19:53:13,324 INFO Saved 0 new flights [LHR→DXB]
+2026-03-16 19:53:13,691 INFO Fetched 10 flights [LHR→TLV]
+2026-03-16 19:53:13,694 INFO Saved 0 new flights [LHR→TLV]
+2026-03-16 19:53:14,020 INFO Fetched 10 flights [LHR→DEL]
+2026-03-16 19:53:14,025 INFO Saved 0 new flights [LHR→DEL]
+2026-03-16 19:53:14,429 INFO Fetched 10 flights [LHR→BKK]
+2026-03-16 19:53:14,433 INFO Saved 0 new flights [LHR→BKK]
+2026-03-16 19:53:14,835 ERROR Aviationstack error [LHR→HKG]: 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=afc54b3895771fe0ec745a5f8d437c0a&dep_iata=LHR&arr_iata=HKG&limit=10
+2026-03-16 19:53:14,837 INFO Saved 0 new flights [LHR→HKG]
+2026-03-16 19:53:15,100 ERROR Aviationstack error [LHR→NRT]: 429 Client Error: Too Many Requests for url: http://api.aviationstack.com/v1/flights?access_key=afc54b3895771fe0ec745a5f8d437c0a&dep_iata=LHR&arr_iata=NRT&limit=10
+2026-03-16 19:53:15,102 INFO Saved 0 new flights [LHR→NRT]
+2026-03-16 19:53:15,102 INFO ========================================
+2026-03-16 19:53:15,102 INFO STEP 3: Fetching OpenSky flight states
+2026-03-16 19:53:15,102 INFO ========================================
+2026-03-16 19:53:15,257 ERROR Failed to get OpenSky token: 401 Client Error: Unauthorized for url: https://auth.opensky-network.org/auth/realms/opensky-network/protocol/openid-connect/token
+2026-03-16 19:53:15,260 INFO Fetching states for region: UK_to_Middle_East
+2026-03-16 19:53:15,526 INFO Fetched 1740 aircraft states
+2026-03-16 19:53:16,529 INFO Fetching states for region: UK_to_Asia
+2026-03-16 19:53:16,767 INFO Fetched 1973 aircraft states
+2026-03-16 19:53:17,775 INFO Fetching states for region: UK_to_Far_East
+2026-03-16 19:53:18,041 INFO Fetched 2512 aircraft states
+2026-03-16 19:53:19,085 INFO Saved 6225 flight states
+2026-03-16 19:53:19,085 INFO ========================================
+2026-03-16 19:53:19,085 INFO STEP 4: Analysing route deviations
+2026-03-16 19:53:19,085 INFO ========================================
+2026-03-16 19:53:19,088 WARNING Flight PGT394 detected over: ukrainian_airspace
+2026-03-16 19:53:19,088 WARNING Flight MNB9389 detected over: russian_airspace
+2026-03-16 19:53:19,090 WARNING Flight WUK2RQ detected over: ukrainian_airspace
+2026-03-16 19:53:19,090 WARNING Flight EZY84EL detected over: red_sea_corridor
+2026-03-16 19:53:19,090 WARNING Flight DLH722 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,090 WARNING Flight WUK8484 detected over: ukrainian_airspace
+2026-03-16 19:53:19,093 WARNING Flight PGT318 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,093 WARNING Flight PGT96WD detected over: russian_airspace
+2026-03-16 19:53:19,094 WARNING Flight SDM6641 detected over: russian_airspace
+2026-03-16 19:53:19,095 WARNING Flight AFL2138 detected over: russian_airspace
+2026-03-16 19:53:19,096 WARNING Flight WZZ339 detected over: ukrainian_airspace
+2026-03-16 19:53:19,096 WARNING Flight AZV948 detected over: russian_airspace
+2026-03-16 19:53:19,097 WARNING Flight THY9VX detected over: russian_airspace
+2026-03-16 19:53:19,097 WARNING Flight RYR2XX detected over: ukrainian_airspace
+2026-03-16 19:53:19,097 WARNING Flight THY2BA detected over: russian_airspace
+2026-03-16 19:53:19,098 WARNING Flight THY7NR detected over: russian_airspace
+2026-03-16 19:53:19,098 WARNING Flight THY5ZV detected over: russian_airspace
+2026-03-16 19:53:19,098 WARNING Flight THY6GB detected over: russian_airspace
+2026-03-16 19:53:19,098 WARNING Flight THY272 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,098 WARNING Flight NOS164 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,098 WARNING Flight THY7MJ detected over: russian_airspace
+2026-03-16 19:53:19,098 WARNING Flight THY3TV detected over: russian_airspace
+2026-03-16 19:53:19,098 WARNING Flight THY8NJ detected over: russian_airspace
+2026-03-16 19:53:19,098 WARNING Flight THY26M detected over: russian_airspace
+2026-03-16 19:53:19,098 WARNING Flight THY322 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,099 WARNING Flight THY5NK detected over: ukrainian_airspace
+2026-03-16 19:53:19,099 WARNING Flight THY4QE detected over: ukrainian_airspace
+2026-03-16 19:53:19,099 WARNING Flight THY8WQ detected over: ukrainian_airspace
+2026-03-16 19:53:19,099 WARNING Flight HKC392 detected over: russian_airspace
+2026-03-16 19:53:19,100 WARNING Flight THY61U detected over: russian_airspace
+2026-03-16 19:53:19,100 WARNING Flight THY4NX detected over: ukrainian_airspace
+2026-03-16 19:53:19,100 WARNING Flight THY5XF detected over: russian_airspace
+2026-03-16 19:53:19,100 WARNING Flight THY147 detected over: red_sea_corridor
+2026-03-16 19:53:19,100 WARNING Flight THY84M detected over: russian_airspace
+2026-03-16 19:53:19,100 WARNING Flight THY8KH detected over: russian_airspace
+2026-03-16 19:53:19,100 WARNING Flight THY5MF detected over: russian_airspace
+2026-03-16 19:53:19,100 WARNING Flight THY4ER detected over: russian_airspace
+2026-03-16 19:53:19,100 WARNING Flight THY2GD detected over: russian_airspace
+2026-03-16 19:53:19,100 WARNING Flight THY6YX detected over: russian_airspace
+2026-03-16 19:53:19,101 WARNING Flight THY4HA detected over: ukrainian_airspace
+2026-03-16 19:53:19,101 WARNING Flight THY3DK detected over: russian_airspace
+2026-03-16 19:53:19,101 WARNING Flight THY7LA detected over: ukrainian_airspace
+2026-03-16 19:53:19,101 WARNING Flight THY3BQ detected over: russian_airspace
+2026-03-16 19:53:19,101 WARNING Flight THY8UT detected over: russian_airspace
+2026-03-16 19:53:19,101 WARNING Flight ABY771 detected over: iranian_airspace
+2026-03-16 19:53:19,101 WARNING Flight THY42K detected over: russian_airspace
+2026-03-16 19:53:19,101 WARNING Flight TGI1831 detected over: russian_airspace
+2026-03-16 19:53:19,102 WARNING Flight ABY405 detected over: iranian_airspace
+2026-03-16 19:53:19,102 WARNING Flight THY3CA detected over: russian_airspace
+2026-03-16 19:53:19,102 WARNING Flight THY1MB detected over: russian_airspace
+2026-03-16 19:53:19,102 WARNING Flight AWG126 detected over: ukrainian_airspace
+2026-03-16 19:53:19,102 WARNING Flight TKJ279 detected over: russian_airspace
+2026-03-16 19:53:19,102 WARNING Flight THY2NT detected over: russian_airspace
+2026-03-16 19:53:19,103 WARNING Flight THY4PL detected over: russian_airspace
+2026-03-16 19:53:19,103 WARNING Flight CPA238 detected over: russian_airspace
+2026-03-16 19:53:19,103 WARNING Flight MNB9345 detected over: ukrainian_airspace
+2026-03-16 19:53:19,104 WARNING Flight FIN41 detected over: russian_airspace
+2026-03-16 19:53:19,104 WARNING Flight SPNFL detected over: ukrainian_airspace
+2026-03-16 19:53:19,105 WARNING Flight HYS264 detected over: ukrainian_airspace
+2026-03-16 19:53:19,105 WARNING Flight SVR774 detected over: russian_airspace
+2026-03-16 19:53:19,105 WARNING Flight LGL84BR detected over: ukrainian_airspace
+2026-03-16 19:53:19,106 WARNING Flight BAW7 detected over: russian_airspace
+2026-03-16 19:53:19,106 WARNING Flight IGT1161 detected over: russian_airspace
+2026-03-16 19:53:19,107 WARNING Flight GEC8430 detected over: russian_airspace
+2026-03-16 19:53:19,107 WARNING Flight KMF9919 detected over: russian_airspace
+2026-03-16 19:53:19,107 WARNING Flight MSC008 detected over: red_sea_corridor
+2026-03-16 19:53:19,108 WARNING Flight NMA602 detected over: red_sea_corridor
+2026-03-16 19:53:19,108 WARNING Flight NMA420 detected over: russian_airspace
+2026-03-16 19:53:19,108 WARNING Flight LOT6519 detected over: russian_airspace
+2026-03-16 19:53:19,108 WARNING Flight LOT71 detected over: iranian_airspace
+2026-03-16 19:53:19,108 WARNING Flight SAZ75 detected over: ukrainian_airspace
+2026-03-16 19:53:19,108 WARNING Flight TUA922 detected over: russian_airspace
+2026-03-16 19:53:19,108 WARNING Flight TUA476 detected over: russian_airspace
+2026-03-16 19:53:19,108 WARNING Flight NMA680 detected over: russian_airspace
+2026-03-16 19:53:19,108 WARNING Flight PGT1035 detected over: russian_airspace
+2026-03-16 19:53:19,109 WARNING Flight KAL964 detected over: russian_airspace
+2026-03-16 19:53:19,109 WARNING Flight CSC9822 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,109 WARNING Flight FAD762 detected over: red_sea_corridor
+2026-03-16 19:53:19,109 WARNING Flight  detected over: russian_airspace
+2026-03-16 19:53:19,110 WARNING Flight RJA116 detected over: red_sea_corridor
+2026-03-16 19:53:19,110 WARNING Flight RHH059 detected over: russian_airspace
+2026-03-16 19:53:19,111 WARNING Flight THY97U detected over: russian_airspace
+2026-03-16 19:53:19,111 WARNING Flight TKJ291 detected over: russian_airspace
+2026-03-16 19:53:19,113 WARNING Flight AAR502 detected over: ukrainian_airspace
+2026-03-16 19:53:19,113 WARNING Flight VJT779 detected over: ukrainian_airspace
+2026-03-16 19:53:19,114 WARNING Flight RYR969 detected over: russian_airspace
+2026-03-16 19:53:19,115 WARNING Flight RYR7628 detected over: ukrainian_airspace
+2026-03-16 19:53:19,115 WARNING Flight KZR912 detected over: russian_airspace
+2026-03-16 19:53:19,115 WARNING Flight RYR35YP detected over: ukrainian_airspace
+2026-03-16 19:53:19,116 WARNING Flight RYR445D detected over: russian_airspace
+2026-03-16 19:53:19,116 WARNING Flight WMT6NW detected over: ukrainian_airspace
+2026-03-16 19:53:19,117 WARNING Flight PGT1574 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,117 WARNING Flight ANA216 detected over: ukrainian_airspace
+2026-03-16 19:53:19,117 WARNING Flight AUV4461 detected over: russian_airspace
+2026-03-16 19:53:19,117 WARNING Flight FIA5296 detected over: ukrainian_airspace
+2026-03-16 19:53:19,118 WARNING Flight  detected over: ukrainian_airspace
+2026-03-16 19:53:19,118 WARNING Flight SEU7112 detected over: red_sea_corridor
+2026-03-16 19:53:19,119 WARNING Flight KNE896 detected over: iranian_airspace
+2026-03-16 19:53:19,119 WARNING Flight MNB9401 detected over: russian_airspace
+2026-03-16 19:53:19,119 WARNING Flight SVA380 detected over: red_sea_corridor
+2026-03-16 19:53:19,119 WARNING Flight CAT794 detected over: ukrainian_airspace
+2026-03-16 19:53:19,120 WARNING Flight PGT394 detected over: ukrainian_airspace
+2026-03-16 19:53:19,120 WARNING Flight MNB9389 detected over: russian_airspace
+2026-03-16 19:53:19,121 WARNING Flight WUK2RQ detected over: ukrainian_airspace
+2026-03-16 19:53:19,121 WARNING Flight EZY84EL detected over: red_sea_corridor
+2026-03-16 19:53:19,122 WARNING Flight DLH722 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,122 WARNING Flight WUK8484 detected over: ukrainian_airspace
+2026-03-16 19:53:19,123 WARNING Flight PGT318 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,123 WARNING Flight PGT96WD detected over: russian_airspace
+2026-03-16 19:53:19,124 WARNING Flight SDM6641 detected over: russian_airspace
+2026-03-16 19:53:19,125 WARNING Flight AFL2138 detected over: russian_airspace
+2026-03-16 19:53:19,125 WARNING Flight WZZ339 detected over: ukrainian_airspace
+2026-03-16 19:53:19,126 WARNING Flight AZV948 detected over: russian_airspace
+2026-03-16 19:53:19,126 WARNING Flight THY9VX detected over: russian_airspace
+2026-03-16 19:53:19,126 WARNING Flight RYR2XX detected over: ukrainian_airspace
+2026-03-16 19:53:19,126 WARNING Flight THY2BA detected over: russian_airspace
+2026-03-16 19:53:19,126 WARNING Flight THY7NR detected over: russian_airspace
+2026-03-16 19:53:19,126 WARNING Flight THY5ZV detected over: russian_airspace
+2026-03-16 19:53:19,127 WARNING Flight THY6GB detected over: russian_airspace
+2026-03-16 19:53:19,127 WARNING Flight THY272 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,127 WARNING Flight NOS164 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,127 WARNING Flight THY7MJ detected over: russian_airspace
+2026-03-16 19:53:19,127 WARNING Flight THY3TV detected over: russian_airspace
+2026-03-16 19:53:19,127 WARNING Flight THY8NJ detected over: russian_airspace
+2026-03-16 19:53:19,127 WARNING Flight THY26M detected over: russian_airspace
+2026-03-16 19:53:19,127 WARNING Flight THY322 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,127 WARNING Flight THY5NK detected over: ukrainian_airspace
+2026-03-16 19:53:19,128 WARNING Flight THY4QE detected over: ukrainian_airspace
+2026-03-16 19:53:19,128 WARNING Flight THY8WQ detected over: ukrainian_airspace
+2026-03-16 19:53:19,128 WARNING Flight HKC392 detected over: russian_airspace
+2026-03-16 19:53:19,128 WARNING Flight THY61U detected over: russian_airspace
+2026-03-16 19:53:19,128 WARNING Flight THY4NX detected over: ukrainian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY5XF detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY147 detected over: red_sea_corridor
+2026-03-16 19:53:19,129 WARNING Flight THY84M detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY8KH detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY5MF detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY4ER detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY2GD detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY6YX detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY4HA detected over: ukrainian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY3DK detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY7LA detected over: ukrainian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY3BQ detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight THY8UT detected over: russian_airspace
+2026-03-16 19:53:19,129 WARNING Flight ABY771 detected over: iranian_airspace
+2026-03-16 19:53:19,130 WARNING Flight THY42K detected over: russian_airspace
+2026-03-16 19:53:19,130 WARNING Flight TGI1831 detected over: russian_airspace
+2026-03-16 19:53:19,130 WARNING Flight ABY405 detected over: iranian_airspace
+2026-03-16 19:53:19,130 WARNING Flight THY3CA detected over: russian_airspace
+2026-03-16 19:53:19,130 WARNING Flight THY1MB detected over: russian_airspace
+2026-03-16 19:53:19,130 WARNING Flight AWG126 detected over: ukrainian_airspace
+2026-03-16 19:53:19,130 WARNING Flight TKJ279 detected over: russian_airspace
+2026-03-16 19:53:19,130 WARNING Flight THY2NT detected over: russian_airspace
+2026-03-16 19:53:19,131 WARNING Flight THY4PL detected over: russian_airspace
+2026-03-16 19:53:19,131 WARNING Flight CPA238 detected over: russian_airspace
+2026-03-16 19:53:19,131 WARNING Flight MNB9345 detected over: ukrainian_airspace
+2026-03-16 19:53:19,131 WARNING Flight FIN41 detected over: russian_airspace
+2026-03-16 19:53:19,132 WARNING Flight SPNFL detected over: ukrainian_airspace
+2026-03-16 19:53:19,132 WARNING Flight HYS264 detected over: ukrainian_airspace
+2026-03-16 19:53:19,133 WARNING Flight SVR774 detected over: russian_airspace
+2026-03-16 19:53:19,133 WARNING Flight LGL84BR detected over: ukrainian_airspace
+2026-03-16 19:53:19,133 WARNING Flight BAW7 detected over: russian_airspace
+2026-03-16 19:53:19,134 WARNING Flight IGT1161 detected over: russian_airspace
+2026-03-16 19:53:19,135 WARNING Flight GEC8430 detected over: russian_airspace
+2026-03-16 19:53:19,135 WARNING Flight KMF9919 detected over: russian_airspace
+2026-03-16 19:53:19,135 WARNING Flight MSC008 detected over: red_sea_corridor
+2026-03-16 19:53:19,136 WARNING Flight NMA602 detected over: red_sea_corridor
+2026-03-16 19:53:19,136 WARNING Flight NMA420 detected over: russian_airspace
+2026-03-16 19:53:19,136 WARNING Flight LOT6519 detected over: russian_airspace
+2026-03-16 19:53:19,136 WARNING Flight LOT71 detected over: iranian_airspace
+2026-03-16 19:53:19,136 WARNING Flight SAZ75 detected over: ukrainian_airspace
+2026-03-16 19:53:19,136 WARNING Flight TUA922 detected over: russian_airspace
+2026-03-16 19:53:19,136 WARNING Flight TUA476 detected over: russian_airspace
+2026-03-16 19:53:19,136 WARNING Flight NMA680 detected over: russian_airspace
+2026-03-16 19:53:19,136 WARNING Flight PGT1035 detected over: russian_airspace
+2026-03-16 19:53:19,137 WARNING Flight KAL964 detected over: russian_airspace
+2026-03-16 19:53:19,137 WARNING Flight CSC9822 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,137 WARNING Flight FAD762 detected over: red_sea_corridor
+2026-03-16 19:53:19,137 WARNING Flight  detected over: russian_airspace
+2026-03-16 19:53:19,138 WARNING Flight RJA116 detected over: red_sea_corridor
+2026-03-16 19:53:19,138 WARNING Flight RHH059 detected over: russian_airspace
+2026-03-16 19:53:19,138 WARNING Flight THY97U detected over: russian_airspace
+2026-03-16 19:53:19,139 WARNING Flight TKJ291 detected over: russian_airspace
+2026-03-16 19:53:19,140 WARNING Flight AAR502 detected over: ukrainian_airspace
+2026-03-16 19:53:19,140 WARNING Flight VJT779 detected over: ukrainian_airspace
+2026-03-16 19:53:19,142 WARNING Flight RYR969 detected over: russian_airspace
+2026-03-16 19:53:19,142 WARNING Flight RYR7628 detected over: ukrainian_airspace
+2026-03-16 19:53:19,143 WARNING Flight KZR912 detected over: russian_airspace
+2026-03-16 19:53:19,143 WARNING Flight RYR35YP detected over: ukrainian_airspace
+2026-03-16 19:53:19,143 WARNING Flight RYR445D detected over: russian_airspace
+2026-03-16 19:53:19,143 WARNING Flight WMT6NW detected over: ukrainian_airspace
+2026-03-16 19:53:19,144 WARNING Flight PGT1574 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,145 WARNING Flight ANA216 detected over: ukrainian_airspace
+2026-03-16 19:53:19,145 WARNING Flight AUV4461 detected over: russian_airspace
+2026-03-16 19:53:19,145 WARNING Flight FIA5296 detected over: ukrainian_airspace
+2026-03-16 19:53:19,145 WARNING Flight  detected over: ukrainian_airspace
+2026-03-16 19:53:19,146 WARNING Flight SEU7112 detected over: red_sea_corridor
+2026-03-16 19:53:19,146 WARNING Flight KNE896 detected over: iranian_airspace
+2026-03-16 19:53:19,146 WARNING Flight MNB9401 detected over: russian_airspace
+2026-03-16 19:53:19,147 WARNING Flight SVA380 detected over: red_sea_corridor
+2026-03-16 19:53:19,147 WARNING Flight CAT794 detected over: ukrainian_airspace
+2026-03-16 19:53:19,147 WARNING Flight PGT394 detected over: ukrainian_airspace
+2026-03-16 19:53:19,147 WARNING Flight MNB9389 detected over: russian_airspace
+2026-03-16 19:53:19,149 WARNING Flight WUK2RQ detected over: ukrainian_airspace
+2026-03-16 19:53:19,149 WARNING Flight EZY84EL detected over: red_sea_corridor
+2026-03-16 19:53:19,149 WARNING Flight DLH722 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,149 WARNING Flight WUK8484 detected over: ukrainian_airspace
+2026-03-16 19:53:19,150 WARNING Flight PGT318 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,151 WARNING Flight PGT96WD detected over: russian_airspace
+2026-03-16 19:53:19,151 WARNING Flight SDM6641 detected over: russian_airspace
+2026-03-16 19:53:19,152 WARNING Flight AFL2138 detected over: russian_airspace
+2026-03-16 19:53:19,153 WARNING Flight AFR44HC detected over: ukrainian_airspace
+2026-03-16 19:53:19,153 WARNING Flight WZZ339 detected over: ukrainian_airspace
+2026-03-16 19:53:19,153 WARNING Flight AZV948 detected over: russian_airspace
+2026-03-16 19:53:19,154 WARNING Flight THY9VX detected over: russian_airspace
+2026-03-16 19:53:19,154 WARNING Flight RYR2XX detected over: ukrainian_airspace
+2026-03-16 19:53:19,154 WARNING Flight THY2BA detected over: russian_airspace
+2026-03-16 19:53:19,154 WARNING Flight THY7NR detected over: russian_airspace
+2026-03-16 19:53:19,154 WARNING Flight THY5ZV detected over: russian_airspace
+2026-03-16 19:53:19,155 WARNING Flight THY6GB detected over: russian_airspace
+2026-03-16 19:53:19,155 WARNING Flight THY272 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,155 WARNING Flight NOS164 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,155 WARNING Flight THY7MJ detected over: russian_airspace
+2026-03-16 19:53:19,155 WARNING Flight THY3TV detected over: russian_airspace
+2026-03-16 19:53:19,155 WARNING Flight THY8NJ detected over: russian_airspace
+2026-03-16 19:53:19,155 WARNING Flight THY26M detected over: russian_airspace
+2026-03-16 19:53:19,155 WARNING Flight THY322 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,155 WARNING Flight THY5NK detected over: ukrainian_airspace
+2026-03-16 19:53:19,156 WARNING Flight THY4QE detected over: ukrainian_airspace
+2026-03-16 19:53:19,156 WARNING Flight THY8WQ detected over: ukrainian_airspace
+2026-03-16 19:53:19,156 WARNING Flight HKC392 detected over: russian_airspace
+2026-03-16 19:53:19,156 WARNING Flight THY61U detected over: russian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY4NX detected over: ukrainian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY5XF detected over: russian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY147 detected over: red_sea_corridor
+2026-03-16 19:53:19,157 WARNING Flight THY84M detected over: russian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY8KH detected over: russian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY5MF detected over: russian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY4ER detected over: russian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY2GD detected over: russian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY6YX detected over: russian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY4HA detected over: ukrainian_airspace
+2026-03-16 19:53:19,157 WARNING Flight THY3DK detected over: russian_airspace
+2026-03-16 19:53:19,158 WARNING Flight THY7LA detected over: ukrainian_airspace
+2026-03-16 19:53:19,158 WARNING Flight THY3BQ detected over: russian_airspace
+2026-03-16 19:53:19,158 WARNING Flight THY8UT detected over: russian_airspace
+2026-03-16 19:53:19,158 WARNING Flight ABY771 detected over: iranian_airspace
+2026-03-16 19:53:19,158 WARNING Flight THY42K detected over: russian_airspace
+2026-03-16 19:53:19,158 WARNING Flight VSV827 detected over: russian_airspace
+2026-03-16 19:53:19,158 WARNING Flight TGI1831 detected over: russian_airspace
+2026-03-16 19:53:19,159 WARNING Flight ABY405 detected over: iranian_airspace
+2026-03-16 19:53:19,159 WARNING Flight THY3CA detected over: russian_airspace
+2026-03-16 19:53:19,159 WARNING Flight THY1MB detected over: russian_airspace
+2026-03-16 19:53:19,159 WARNING Flight AWG126 detected over: ukrainian_airspace
+2026-03-16 19:53:19,159 WARNING Flight TKJ279 detected over: russian_airspace
+2026-03-16 19:53:19,159 WARNING Flight THY2NT detected over: russian_airspace
+2026-03-16 19:53:19,160 WARNING Flight THY4PL detected over: russian_airspace
+2026-03-16 19:53:19,160 WARNING Flight CPA238 detected over: russian_airspace
+2026-03-16 19:53:19,160 WARNING Flight MNB9345 detected over: ukrainian_airspace
+2026-03-16 19:53:19,161 WARNING Flight FIN41 detected over: russian_airspace
+2026-03-16 19:53:19,161 WARNING Flight CBJ606 detected over: russian_airspace
+2026-03-16 19:53:19,161 WARNING Flight SPNFL detected over: ukrainian_airspace
+2026-03-16 19:53:19,162 WARNING Flight CSH869 detected over: russian_airspace
+2026-03-16 19:53:19,162 WARNING Flight HYS264 detected over: ukrainian_airspace
+2026-03-16 19:53:19,162 WARNING Flight CCA950 detected over: russian_airspace
+2026-03-16 19:53:19,163 WARNING Flight SVR774 detected over: russian_airspace
+2026-03-16 19:53:19,163 WARNING Flight LGL84BR detected over: ukrainian_airspace
+2026-03-16 19:53:19,163 WARNING Flight BAW7 detected over: russian_airspace
+2026-03-16 19:53:19,164 WARNING Flight IGT1161 detected over: russian_airspace
+2026-03-16 19:53:19,165 WARNING Flight GEC8430 detected over: russian_airspace
+2026-03-16 19:53:19,165 WARNING Flight THY1DY detected over: ukrainian_airspace
+2026-03-16 19:53:19,165 WARNING Flight KMF9919 detected over: russian_airspace
+2026-03-16 19:53:19,166 WARNING Flight MSC008 detected over: red_sea_corridor
+2026-03-16 19:53:19,166 WARNING Flight NMA602 detected over: red_sea_corridor
+2026-03-16 19:53:19,166 WARNING Flight NMA420 detected over: russian_airspace
+2026-03-16 19:53:19,166 WARNING Flight LOT6519 detected over: russian_airspace
+2026-03-16 19:53:19,166 WARNING Flight LOT71 detected over: iranian_airspace
+2026-03-16 19:53:19,166 WARNING Flight SAZ75 detected over: ukrainian_airspace
+2026-03-16 19:53:19,166 WARNING Flight TUA922 detected over: russian_airspace
+2026-03-16 19:53:19,166 WARNING Flight TUA476 detected over: russian_airspace
+2026-03-16 19:53:19,167 WARNING Flight UZB9608 detected over: russian_airspace
+2026-03-16 19:53:19,167 WARNING Flight NMA680 detected over: russian_airspace
+2026-03-16 19:53:19,167 WARNING Flight CCA936 detected over: russian_airspace
+2026-03-16 19:53:19,168 WARNING Flight PGT1035 detected over: russian_airspace
+2026-03-16 19:53:19,168 WARNING Flight KAL964 detected over: russian_airspace
+2026-03-16 19:53:19,168 WARNING Flight CSC9822 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,169 WARNING Flight FAD762 detected over: red_sea_corridor
+2026-03-16 19:53:19,169 WARNING Flight  detected over: russian_airspace
+2026-03-16 19:53:19,170 WARNING Flight RJA116 detected over: red_sea_corridor
+2026-03-16 19:53:19,170 WARNING Flight RHH059 detected over: russian_airspace
+2026-03-16 19:53:19,170 WARNING Flight THY97U detected over: russian_airspace
+2026-03-16 19:53:19,170 WARNING Flight TKJ291 detected over: russian_airspace
+2026-03-16 19:53:19,172 WARNING Flight RWZ2091 detected over: russian_airspace
+2026-03-16 19:53:19,172 WARNING Flight AAR502 detected over: ukrainian_airspace
+2026-03-16 19:53:19,173 WARNING Flight VJT779 detected over: ukrainian_airspace
+2026-03-16 19:53:19,174 WARNING Flight RYR969 detected over: russian_airspace
+2026-03-16 19:53:19,175 WARNING Flight RYR7628 detected over: ukrainian_airspace
+2026-03-16 19:53:19,176 WARNING Flight KZR912 detected over: russian_airspace
+2026-03-16 19:53:19,176 WARNING Flight RYR35YP detected over: ukrainian_airspace
+2026-03-16 19:53:19,176 WARNING Flight RYR445D detected over: russian_airspace
+2026-03-16 19:53:19,176 WARNING Flight WMT6NW detected over: ukrainian_airspace
+2026-03-16 19:53:19,177 WARNING Flight BRU767 detected over: russian_airspace
+2026-03-16 19:53:19,178 WARNING Flight PGT1574 detected over: russian_airspace, ukrainian_airspace
+2026-03-16 19:53:19,178 WARNING Flight ANA216 detected over: ukrainian_airspace
+2026-03-16 19:53:19,178 WARNING Flight AUV4461 detected over: russian_airspace
+2026-03-16 19:53:19,178 WARNING Flight FIA5296 detected over: ukrainian_airspace
+2026-03-16 19:53:19,179 WARNING Flight  detected over: ukrainian_airspace
+2026-03-16 19:53:19,179 WARNING Flight SEU7112 detected over: red_sea_corridor
+2026-03-16 19:53:19,180 WARNING Flight KNE896 detected over: iranian_airspace
+2026-03-16 19:53:19,180 WARNING Flight MNB9401 detected over: russian_airspace
+2026-03-16 19:53:19,180 WARNING Flight SVA380 detected over: red_sea_corridor
+2026-03-16 19:53:19,180 WARNING Flight CAT794 detected over: ukrainian_airspace
+2026-03-16 19:53:19,180 INFO Analysed 6225 states — 313 over restricted zones
+2026-03-16 19:53:19,183 INFO Saved 313 deviation records
+2026-03-16 19:53:19,183 WARNING ALERT: 313 flights detected over restricted airspace
+2026-03-16 19:53:19,183 INFO ========================================
+2026-03-16 19:53:19,183 INFO STEP 5: Sentiment analysis + geo tagging
+2026-03-16 19:53:19,183 INFO ========================================
+2026-03-16 19:53:19,186 INFO Scoring 2 articles...
+2026-03-16 19:53:19,187 INFO Scored 2 articles
+2026-03-16 19:53:19,187 INFO Geo-tagged 0 articles
+2026-03-16 19:53:19,187 INFO Flight-relevant 0 articles
+2026-03-16 19:53:19,189 INFO Sentiment breakdown: [{'sentiment_label': 'negative', 'count': 2464, 'avg_score': -0.5968}, {'sentiment_label': 'positive', 'count': 961, 'avg_score': 0.4351}, {'sentiment_label': 'neutral', 'count': 369, 'avg_score': -0.0005}]
+2026-03-16 19:53:19,189 INFO Geo-tagged articles: 848
+2026-03-16 19:53:19,189 INFO Flight-relevant articles: 24
+2026-03-16 19:53:19,189 INFO ========================================
+2026-03-16 19:53:19,189 INFO STEP 6: Correlation + prediction report
+2026-03-16 19:53:19,189 INFO ========================================
+2026-03-16 19:53:19,189 INFO Generating Phase 3 report...
+2026-03-16 19:53:19,243 INFO Built correlation table with 331 zone-day rows
+2026-03-16 19:53:19,244 INFO russian_airspace: correlation=-0.1037 (91 days)
+2026-03-16 19:53:19,244 INFO ukrainian_airspace: correlation=-0.0855 (92 days)
+2026-03-16 19:53:19,245 INFO iranian_airspace: correlation=0.1701 (71 days)
+2026-03-16 19:53:19,246 INFO iraqi_syrian_airspace: correlation=None (67 days)
+2026-03-16 19:53:19,246 INFO red_sea_corridor: correlation=-0.4444 (10 days)
+2026-03-16 19:53:20,219 INFO Built correlation table with 331 zone-day rows
+2026-03-16 19:53:20,259 INFO Model trained — accuracy: 0.9879 (+/- 0.0042)
+2026-03-16 19:53:20,259 INFO Feature importances: {'avg_sentiment': 0.2742, 'negative_count': 0.4967, 'article_count': 0.2291}
+2026-03-16 19:53:20,261 INFO Report generated — 4 key findings
+2026-03-16 19:53:20,261 INFO   >> Russian airspace: weak negative correlation (-0.1037) between negative news and flight deviations
+2026-03-16 19:53:20,261 INFO   >> Ukrainian airspace: weak negative correlation (-0.0855) between negative news and flight deviations
+2026-03-16 19:53:20,261 INFO   >> Iranian airspace: weak positive correlation (0.1701) between negative news and flight deviations
+2026-03-16 19:53:20,261 INFO   >> Red Sea corridor: moderate negative correlation (-0.4444) between negative news and flight deviations
+2026-03-16 19:53:20,261 INFO Total deviations recorded: 1212
+2026-03-16 19:53:20,261 INFO Key findings: 4
+2026-03-16 19:53:20,261 INFO   >> Russian airspace: weak negative correlation (-0.1037) between negative news and flight deviations
+2026-03-16 19:53:20,261 INFO   >> Ukrainian airspace: weak negative correlation (-0.0855) between negative news and flight deviations
+2026-03-16 19:53:20,261 INFO   >> Iranian airspace: weak positive correlation (0.1701) between negative news and flight deviations
+2026-03-16 19:53:20,261 INFO   >> Red Sea corridor: moderate negative correlation (-0.4444) between negative news and flight deviations
+2026-03-16 19:53:20,261 INFO Model status: trained
+2026-03-16 19:53:20,261 INFO ========================================
+2026-03-16 19:53:20,261 INFO STEP 7: Fetching EIA jet fuel prices
+2026-03-16 19:53:20,261 INFO ========================================
+2026-03-16 19:53:21,601 INFO Fetched 218 weekly fuel price records from EIA
+2026-03-16 19:53:21,605 INFO Saved 0 new fuel price records
+2026-03-16 19:53:21,605 INFO ========================================
+2026-03-16 19:53:21,605 INFO STEP 8: Generating route price predictions
+2026-03-16 19:53:21,605 INFO ========================================
+2026-03-16 19:53:21,608 INFO Predicting prices — sentiment: -0.339, deviations: 651, active zones: ['russian_airspace', 'iranian_airspace', 'red_sea_corridor', 'ukrainian_airspace'], fuel: $3.10/gal
+2026-03-16 19:53:21,608 INFO London → Dubai: £478.16 (+25.8%) — HIGH
+2026-03-16 19:53:21,608 INFO London → Tel Aviv: £258.72 (+17.6%) — MEDIUM
+2026-03-16 19:53:21,608 INFO London → Delhi: £523.55 (+24.7%) — HIGH
+2026-03-16 19:53:21,609 INFO London → Bangkok: £654.33 (+25.8%) — HIGH
+2026-03-16 19:53:21,609 INFO London → Hong Kong: £723.0 (+24.7%) — HIGH
+2026-03-16 19:53:21,609 INFO London → Tokyo: £772.87 (+24.7%) — HIGH
+2026-03-16 19:53:21,636 INFO Built training set: 552 rows across 6 routes
+2026-03-16 19:53:21,764 INFO Price model trained — MAE: £7.72 CV MAE: £14.08
+2026-03-16 19:53:21,764 INFO Feature importances: {'avg_sentiment': 0.0024, 'negative_count': 0.0102, 'total_deviations': 0.0032, 'fuel_price': 0.0226, 'distance_km': 0.9615}
+2026-03-16 19:53:21,765 INFO London → Dubai: £478.16 (+25.8% above base) — HIGH risk
+2026-03-16 19:53:21,765 WARNING   Triggered by: iranian_airspace, red_sea_corridor
+2026-03-16 19:53:21,765 INFO London → Bangkok: £654.33 (+25.8% above base) — HIGH risk
+2026-03-16 19:53:21,765 WARNING   Triggered by: russian_airspace, red_sea_corridor
+2026-03-16 19:53:21,765 INFO London → Delhi: £523.55 (+24.7% above base) — HIGH risk
+2026-03-16 19:53:21,765 WARNING   Triggered by: iranian_airspace, russian_airspace
+2026-03-16 19:53:21,765 INFO London → Hong Kong: £723.0 (+24.7% above base) — HIGH risk
+2026-03-16 19:53:21,765 WARNING   Triggered by: russian_airspace
+2026-03-16 19:53:21,765 INFO London → Tokyo: £772.87 (+24.7% above base) — HIGH risk
+2026-03-16 19:53:21,765 WARNING   Triggered by: russian_airspace
+2026-03-16 19:53:21,765 INFO London → Tel Aviv: £258.72 (+17.6% above base) — MEDIUM risk
+2026-03-16 19:53:21,765 INFO ========================================
+2026-03-16 19:53:21,765 INFO PIPELINE COMPLETE
+2026-03-16 19:53:21,765 INFO ========================================

@@ -122,14 +122,13 @@ def estimate_price_fast(
         sentiment_to_multiplier,
         deviation_to_multiplier,
         days_to_multiplier,
-        FUEL_BURN_PER_KM,
-        GALLONS_TO_GBP
+        BASE_FUEL_PRICE
     )
-    fuel_cost = distance_km * FUEL_BURN_PER_KM * fuel_price * GALLONS_TO_GBP
+    fuel_adjustment = base_fare * 0.28 * (fuel_price / BASE_FUEL_PRICE - 1)
     sent_mult = sentiment_to_multiplier(avg_sentiment)
     dev_mult  = deviation_to_multiplier(deviation_count)
     day_mult  = days_to_multiplier(days_to_departure)
-    return (base_fare + fuel_cost) * sent_mult * dev_mult * day_mult
+    return (base_fare + fuel_adjustment) * sent_mult * dev_mult * day_mult
 
 def train_price_model(db_path: str) -> dict:
     
