@@ -11,29 +11,44 @@ def get_connection():
     return conn
 
 @st.cache_data(ttl=300)
-def load_articles():
+def load_articles(source: str = "all"):
     conn = get_connection()
-    df = pd.read_sql_query("""
-        SELECT title, section, sentiment_score, sentiment_label,
-               geo_tags, published_at, url, first_paragraph
-        FROM articles
-        WHERE sentiment_score IS NOT NULL
-        ORDER BY published_at DESC
-        LIMIT 500
-    """, conn)
+    if source == "all":
+        df = pd.read_sql_query("""
+            SELECT title, section, source, sentiment_score, sentiment_label,
+                   geo_tags, published_at, url, first_paragraph
+            FROM articles
+            WHERE sentiment_score IS NOT NULL
+            AND published_at >= datetime('now', '-7 days')
+            ORDER BY published_at DESC
+            LIMIT 500
+        """, conn)
+    else:
+        df = pd.read_sql_query("""
+            SELECT title, section, source, sentiment_score, sentiment_label,
+                   geo_tags, published_at, url, first_paragraph
+            FROM articles
+            WHERE sentiment_score IS NOT NULL
+            AND source = ?
+            AND published_at >= datetime('now', '-7 days')
+            ORDER BY published_at DESC
+            LIMIT 500
+        """, conn, params=(source,))
     conn.close()
     return df
 
 @st.cache_data(ttl=300)
-def load_flight_states():
+def load_source_breakdown():
     conn = get_connection()
     df = pd.read_sql_query("""
-        SELECT icao24, callsign, origin_country, lat, lon,
-               altitude_m, velocity_ms, heading, on_ground, recorded_at
-        FROM flight_states
-        WHERE lat IS NOT NULL AND lon IS NOT NULL
-        AND recorded_at >= datetime('now', '-2 hours')
-        ORDER BY recorded_at DESC
+        SELECT source,
+               COUNT(*) as total_articles,
+               SUM(CASE WHEN sentiment_label='negative' THEN 1 ELSE 0 END) as negative,
+               ROUND(AVG(sentiment_score), 3) as avg_sentiment
+        FROM articles
+        WHERE sentiment_score IS NOT NULL
+        GROUP BY source
+        ORDER BY total_articles DESC
     """, conn)
     conn.close()
     return df

@@ -12,8 +12,9 @@ load_dotenv()
 from db_utils import (
     load_articles, load_flight_states, load_deviations,
     load_flight_prices, load_sentiment_trend, load_deviation_trend,
-    load_fuel_history, load_summary_metrics,
+    load_fuel_history, load_summary_metrics, load_source_breakdown,
 )
+
 from map_visualizations import (
     build_global_map, build_deviation_heatmap,
     build_price_comparison_chart, build_fuel_trend_chart,

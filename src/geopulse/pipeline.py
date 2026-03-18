@@ -3,6 +3,7 @@ import logging
 from dotenv import load_dotenv
 from geopulse.db.db import initialise_db, get_connection
 from geopulse.news.guardian import fetch_articles, save_articles
+from geopulse.news.rss_scraper import fetch_all_rss, save_rss_articles
 from geopulse.flights.aviationstack import fetch_flights, save_flights
 from geopulse.flights.opensky import fetch_all_regions, save_states
 from geopulse.analysis.deviation import analyse_states
@@ -33,9 +34,9 @@ WATCHED_ROUTES = [
 ]
 
 def save_deviations(deviations: list[dict], db_path: str):
-    conn = get_connection(db_path)
+    conn   = get_connection(db_path)
     cursor = conn.cursor()
-    saved = 0
+    saved  = 0
     for d in deviations:
         try:
             cursor.execute("""
@@ -55,7 +56,7 @@ def run():
     db_path = os.getenv("DB_PATH", "data/geopulse.db")
     initialise_db(db_path)
 
-    
+    #Guardian news ─────────────────────
     logger.info("=" * 40)
     logger.info("STEP 1: Fetching Guardian news (90 days)")
     logger.info("=" * 40)
@@ -65,7 +66,15 @@ def run():
     )
     save_articles(articles, db_path)
 
-    
+    #RSS feeds 
+    logger.info("=" * 40)
+    logger.info("STEP 1b: Fetching RSS feeds (BBC / Al Jazeera / France24)")
+    logger.info("=" * 40)
+    rss_articles = fetch_all_rss(days_back=90)
+    rss_saved    = save_rss_articles(rss_articles, db_path)
+    logger.info(f"RSS total saved: {rss_saved} new articles")
+
+    #Aviationstack prices 
     logger.info("=" * 40)
     logger.info("STEP 2: Fetching Aviationstack prices")
     logger.info("=" * 40)
@@ -77,7 +86,7 @@ def run():
         )
         save_flights(flights, origin, destination, db_path)
 
-    
+    #OpenSky flight states 
     logger.info("=" * 40)
     logger.info("STEP 3: Fetching OpenSky flight states")
     logger.info("=" * 40)
@@ -87,7 +96,7 @@ def run():
     )
     save_states(states, db_path)
 
-    
+    #Route deviation analysis 
     logger.info("=" * 40)
     logger.info("STEP 4: Analysing route deviations")
     logger.info("=" * 40)
@@ -101,7 +110,7 @@ def run():
     else:
         logger.info("No restricted zone violations detected")
 
-   
+    #Sentiment analysis + geo tagging 
     logger.info("=" * 40)
     logger.info("STEP 5: Sentiment analysis + geo tagging")
     logger.info("=" * 40)
@@ -111,19 +120,21 @@ def run():
     logger.info(f"Geo-tagged articles: {summary['geo_tagged_articles']}")
     logger.info(f"Flight-relevant articles: {summary['flight_relevant_articles']}")
 
+    #Correlation + prediction report 
     logger.info("=" * 40)
     logger.info("STEP 6: Correlation + prediction report")
     logger.info("=" * 40)
     report = generate_report(db_path)
-    logger.info(f"Total deviations recorded: {report['data_summary']['total_deviations']}")
+    logger.info(
+        f"Total deviations recorded: "
+        f"{report['data_summary']['total_deviations']}"
+    )
     logger.info(f"Key findings: {len(report['findings'])}")
     for finding in report["findings"]:
         logger.info(f"  >> {finding}")
     logger.info(f"Model status: {report['model'].get('status', 'n/a')}")
-    
 
-
-    # Jet fuel prices
+    #EIA jet fuel prices 
     logger.info("=" * 40)
     logger.info("STEP 7: Fetching EIA jet fuel prices")
     logger.info("=" * 40)
@@ -133,7 +144,7 @@ def run():
     )
     save_fuel_prices(fuel_records, db_path)
 
-    # Price predictions
+    # ── Step 8: Route price predictions 
     logger.info("=" * 40)
     logger.info("STEP 8: Generating route price predictions")
     logger.info("=" * 40)
@@ -148,11 +159,10 @@ def run():
             logger.warning(
                 f"  Triggered by: {', '.join(p['triggered_zones'])}"
             )
+
     logger.info("=" * 40)
     logger.info("PIPELINE COMPLETE")
     logger.info("=" * 40)
 
-    
-    
 if __name__ == "__main__":
     run()
